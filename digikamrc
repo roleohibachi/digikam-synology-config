@@ -1,0 +1,2335 @@
+[AdvancedRename Dialog]
+Dialog Size=450,450
+Last Used Rename Pattern=[file]##
+
+[AdvancedRename Input]
+Pattern History List=,[file]##,[file]#
+
+[AdvancedRename Widget]
+Options are expanded=true
+
+[Album Settings]
+Album Collections=,Category,Friends,Holidays,Miscellaneous,Nature,Party,Todo,Travel
+Album Monitoring=true
+Album Sort Role=0
+All Groups Open=false
+Default Icon Size=128
+Default Tree Icon Size=22
+Icon Show Aspect Ratio=false
+Icon Show Comments=true
+Icon Show Coordinates=true
+Icon Show Date=true
+Icon Show Fullscreen=true
+Icon Show Image Format=true
+Icon Show Modification Date=false
+Icon Show Name=true
+Icon Show Overlays=true
+Icon Show Rating=true
+Icon Show Resolution=false
+Icon Show Size=false
+Icon Show Tags=true
+Icon Show Title=true
+IconView Font=Sans,10,-1,5,50,0,0,0,0,0
+Image Group Mode=1
+Image Group Sort Order=0
+Image Sort Order=0
+Image Sorting=0
+Item Left Click Action=0
+Preview Convert To Eight Bit=true
+Preview Load Full Image Size=false
+Preview Show Icons=true
+Preview Zoom Use Original Size=true
+Rating Filter Condition=0
+Recursive Albums=true
+Recursive Tags=true
+Show Album ToolTips=false
+Show Folder Tree View Items Count=false
+Show Thumbbar=true
+Show ToolTips=false
+Sidebar Title Style=2
+Theme=Default
+ToolTips Font=Sans,10,-1,5,50,0,0,0,0,0
+ToolTips Show Album Caption=true
+ToolTips Show Album Category=true
+ToolTips Show Album Collection=true
+ToolTips Show Album Date=true
+ToolTips Show Album Name=false
+ToolTips Show Album Preview=false
+ToolTips Show Album Title=true
+ToolTips Show Audio Bit Rate=true
+ToolTips Show Audio Channel Type=true
+ToolTips Show Audio Codec=true
+ToolTips Show Audio Compressor=true
+ToolTips Show Comments=true
+ToolTips Show File Date=false
+ToolTips Show File Name=true
+ToolTips Show File Size=false
+ToolTips Show Image AR=true
+ToolTips Show Image Dim=true
+ToolTips Show Image Type=false
+ToolTips Show Label Rating=true
+ToolTips Show Photo Date=true
+ToolTips Show Photo Expo=true
+ToolTips Show Photo Flash=false
+ToolTips Show Photo Focal=true
+ToolTips Show Photo Lens=true
+ToolTips Show Photo Make=true
+ToolTips Show Photo Mode=true
+ToolTips Show Photo WB=false
+ToolTips Show Tags=true
+ToolTips Show Titles=true
+ToolTips Show Video Aspect Ratio=true
+ToolTips Show Video Codec=true
+ToolTips Show Video Duration=true
+ToolTips Show Video Frame Rate=true
+TreeView Font=Sans,10,-1,5,50,0,0,0,0,0
+
+[AlbumFolderView Sidebar]
+CurrentIndex=2324
+Expansion=0,2,3,2115,9,162,171,2136,2166,237,238,239,240,241,250,274,289,301,316,331,342,346,361,373,381,388,400,421,423,448,465,478,484,505,532,1855,2271,2298,2299,2301,2302,2304,2305,2306,2307,2310,2311,2321,2323,2324
+RestoreChecked=false
+Selection=2324
+SortColumn=0
+SortOrder=0
+
+[AlbumIconViewFilterSearchTextBar Search Text Tool]
+CaseSensitive=0
+
+[AlbumSelectTabs_DBInfoIface]
+AlbumSearchBarCaseSensitive=0
+AlbumTreeViewChecked=
+AlbumTreeViewCurrentIndex=
+AlbumTreeViewExpansion=
+AlbumTreeViewRestoreChecked=true
+AlbumTreeViewSelection=
+AlbumTreeViewSortColumn=0
+AlbumTreeViewSortOrder=0
+LabelsTreeViewColorSelection=
+LabelsTreeViewExpansion=
+LabelsTreeViewPickSelection=
+LabelsTreeViewRatingSelection=
+SearchSearchBarCaseSensitive=0
+SearchTreeViewChecked=
+SearchTreeViewCurrentIndex=
+SearchTreeViewExpansion=
+SearchTreeViewRestoreChecked=true
+SearchTreeViewSelection=
+SearchTreeViewSortColumn=0
+SearchTreeViewSortOrder=0
+TagSearchBarCaseSensitive=0
+TagTreeViewChecked=
+TagTreeViewCurrentIndex=
+TagTreeViewExpansion=
+TagTreeViewRestoreChecked=true
+TagTreeViewSelection=
+TagTreeViewSortColumn=0
+TagTreeViewSortOrder=0
+
+[AlbumSelectTabs_SetupMediaServerIface]
+AlbumSearchBarCaseSensitive=0
+AlbumTreeViewChecked=
+AlbumTreeViewCurrentIndex=
+AlbumTreeViewExpansion=1,2178
+AlbumTreeViewRestoreChecked=true
+AlbumTreeViewSelection=
+AlbumTreeViewSortColumn=0
+AlbumTreeViewSortOrder=0
+LabelsTreeViewColorSelection=
+LabelsTreeViewExpansion=
+LabelsTreeViewPickSelection=
+LabelsTreeViewRatingSelection=
+SearchSearchBarCaseSensitive=0
+SearchTreeViewChecked=
+SearchTreeViewCurrentIndex=
+SearchTreeViewExpansion=
+SearchTreeViewRestoreChecked=true
+SearchTreeViewSelection=
+SearchTreeViewSortColumn=0
+SearchTreeViewSortOrder=0
+TagSearchBarCaseSensitive=0
+TagTreeViewChecked=
+TagTreeViewCurrentIndex=
+TagTreeViewExpansion=
+TagTreeViewRestoreChecked=true
+TagTreeViewSelection=
+TagTreeViewSortColumn=0
+TagTreeViewSortOrder=0
+
+[AlbumSelectWidget]
+AlbumTreeViewCurrentIndex=
+AlbumTreeViewExpansion=1,2271,2298
+AlbumTreeViewRestoreChecked=false
+AlbumTreeViewSelection=
+AlbumTreeViewSortColumn=0
+AlbumTreeViewSortOrder=0
+CaseSensitive=0
+
+[All Metadata Edit Settings]
+All EXIF Edit Page=0
+All IPTC Edit Page=1
+All Sync EXIF Comment=true
+All Sync EXIF Date=true
+All Sync IPTC Caption=true
+All Sync IPTC Date=true
+All Sync JFIF Comment=true
+All Sync XMP Caption=true
+All Sync XMP Date=true
+All XMP Edit Page=1
+
+[Baloo Settings]
+Sync Baloo to Digikam=false
+Sync Digikam to Baloo=false
+
+[Batch Queue Manager Settings]
+BqmBottomSplitter=AAAA/wAAAAEAAAACAAABoAAAAQoB/////wEAAAABAA==
+BqmTopSplitter=AAAA/wAAAAEAAAADAAACrAAAAaYAAAIkAf////8BAAAAAQA=
+BqmVerticalSplitter=AAAA/wAAAAEAAAACAAAA+wAAAdMB/////wEAAAACAA==
+Height 1050=988
+State=AAAA/wAAAAD9AAAAAAAABpAAAAOKAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1680=1680
+
+[Camera Settings]
+DefaultTargetAlbumId=0
+FileSaveConflictRule=1
+FullScreen Hide SideBars=false
+FullScreen Hide StatusBar=false
+FullScreen Hide ThumbBar=true
+FullScreen Hide ToolBars=false
+TurnHighQualityThumbs=false
+UseDefaultTargetAlbum=false
+UseFileMetadata=true
+
+[Color Management]
+BPCAlgorithm=true
+DefaultMismatchBehavior=2049
+DefaultMissingProfileBehavior=2050
+DefaultPath=
+DefaultUncalibratedBehavior=2080
+DoGamutCheck=0
+EnableCM=true
+GamutCheckMaskColor=126,255,255
+LastMismatchBehavior=2049
+LastMissingProfileBehavior=2050
+LastSpecifiedAssignProfile=
+LastSpecifiedInputProfile=
+LastUncalibratedBehavior=2080
+ManagedPreviews=true
+ManagedView=true
+MonitorProfileFile[$e]=/tmp/.mount_digikahTYY6l/usr/share/digikam/profiles/srgb-d65.icm
+ProofingRenderingIntent=3
+RenderingIntent=0
+WorkProfileFile[$e]=/tmp/.mount_digikahTYY6l/usr/share/digikam/profiles/srgb-d65.icm
+
+[CoreDB Settings]
+Recently Used Tags=40,36,42,135,48,35,138,137,130,111
+
+[DLNA Settings]
+Height 1050=750
+Width 1680=800
+
+[DMetadata Settings][readCommentNamespaces][#0001]
+alternativeName=Exif.Photo.UserComment
+convertRatio=
+index=0
+isDefault=true
+isDisabled=false
+namespaceName=Exif.Image.ImageDescription
+nsType=2
+secondNameOpts=0
+separator=
+specialOpts=0
+subspace=0
+tagPaths=1
+
+[DMetadata Settings][readCommentNamespaces][#0002]
+alternativeName=
+convertRatio=
+index=1
+isDefault=true
+isDisabled=false
+namespaceName=Xmp.dc.description
+nsType=2
+secondNameOpts=0
+separator=
+specialOpts=2
+subspace=2
+tagPaths=1
+
+[DMetadata Settings][readCommentNamespaces][#0003]
+alternativeName=
+convertRatio=
+index=2
+isDefault=false
+isDisabled=false
+namespaceName=Exif.XPComment
+nsType=2
+secondNameOpts=0
+separator=
+specialOpts=0
+subspace=0
+tagPaths=0
+
+[DMetadata Settings][readCommentNamespaces][#0004]
+alternativeName=
+convertRatio=
+index=3
+isDefault=true
+isDisabled=false
+namespaceName=Xmp.exif.UserComment
+nsType=2
+secondNameOpts=0
+separator=
+specialOpts=1
+subspace=2
+tagPaths=1
+
+[DMetadata Settings][readCommentNamespaces][#0005]
+alternativeName=
+convertRatio=
+index=4
+isDefault=false
+isDisabled=false
+namespaceName=Xmp.photoshop.headline
+nsType=2
+secondNameOpts=0
+separator=
+specialOpts=0
+subspace=2
+tagPaths=0
+
+[DMetadata Settings][readCommentNamespaces][#0006]
+alternativeName=
+convertRatio=
+index=5
+isDefault=true
+isDisabled=false
+namespaceName=Xmp.tiff.ImageDescription
+nsType=2
+secondNameOpts=0
+separator=
+specialOpts=1
+subspace=2
+tagPaths=1
+
+[DMetadata Settings][readCommentNamespaces][#0007]
+alternativeName=
+convertRatio=
+index=6
+isDefault=true
+isDisabled=false
+namespaceName=Xmp.acdsee.notes
+nsType=2
+secondNameOpts=0
+separator=
+specialOpts=3
+subspace=2
+tagPaths=1
+
+[DMetadata Settings][readCommentNamespaces][#0008]
+alternativeName=
+convertRatio=
+index=7
+isDefault=true
+isDisabled=false
+namespaceName=JPEG/TIFF Comments
+nsType=2
+secondNameOpts=0
+separator=
+specialOpts=4
+subspace=2
+tagPaths=1
+
+[DMetadata Settings][readCommentNamespaces][#0009]
+alternativeName=
+convertRatio=
+index=8
+isDefault=true
+isDisabled=false
+namespaceName=Iptc.Application2.Caption
+nsType=2
+secondNameOpts=0
+separator=
+specialOpts=0
+subspace=1
+tagPaths=1
+
+[DMetadata Settings][readRatingNamespaces][#0001]
+alternativeName=
+convertRatio=0,1,2,3,4,5
+index=0
+isDefault=true
+isDisabled=false
+namespaceName=Xmp.xmp.Rating
+nsType=1
+secondNameOpts=0
+separator=
+specialOpts=0
+subspace=2
+tagPaths=1
+
+[DMetadata Settings][readRatingNamespaces][#0002]
+alternativeName=
+convertRatio=0,1,2,3,4,5
+index=1
+isDefault=true
+isDisabled=false
+namespaceName=Xmp.acdsee.rating
+nsType=1
+secondNameOpts=0
+separator=
+specialOpts=0
+subspace=2
+tagPaths=1
+
+[DMetadata Settings][readRatingNamespaces][#0003]
+alternativeName=
+convertRatio=0,1,25,50,75,99
+index=2
+isDefault=true
+isDisabled=false
+namespaceName=Xmp.MicrosoftPhoto.Rating
+nsType=1
+secondNameOpts=0
+separator=
+specialOpts=0
+subspace=2
+tagPaths=1
+
+[DMetadata Settings][readRatingNamespaces][#0004]
+alternativeName=
+convertRatio=0,1,2,3,4,5
+index=3
+isDefault=true
+isDisabled=false
+namespaceName=Exif.Image.0x4746
+nsType=1
+secondNameOpts=0
+separator=
+specialOpts=0
+subspace=0
+tagPaths=1
+
+[DMetadata Settings][readRatingNamespaces][#0005]
+alternativeName=
+convertRatio=0,1,25,50,75,99
+index=4
+isDefault=true
+isDisabled=false
+namespaceName=Exif.Image.0x4749
+nsType=1
+secondNameOpts=0
+separator=
+specialOpts=0
+subspace=0
+tagPaths=1
+
+[DMetadata Settings][readRatingNamespaces][#0006]
+alternativeName=
+convertRatio=8,6,5,4,2,1
+index=5
+isDefault=true
+isDisabled=false
+namespaceName=Iptc.Application2.Urgency
+nsType=1
+secondNameOpts=0
+separator=
+specialOpts=0
+subspace=1
+tagPaths=1
+
+[DMetadata Settings][readTagsNamespaces][#0001]
+alternativeName=
+convertRatio=
+index=0
+isDefault=true
+isDisabled=false
+namespaceName=Xmp.dc.subject
+nsType=0
+secondNameOpts=0
+separator=/
+specialOpts=5
+subspace=2
+tagPaths=0
+
+[DMetadata Settings][readTagsNamespaces][#0002]
+alternativeName=
+convertRatio=
+index=1
+isDefault=true
+isDisabled=false
+namespaceName=Iptc.Application2.Keywords
+nsType=0
+secondNameOpts=0
+separator=.
+specialOpts=0
+subspace=1
+tagPaths=1
+
+[DMetadata Settings][readTagsNamespaces][#0003]
+alternativeName=
+convertRatio=
+index=2
+isDefault=true
+isDisabled=false
+namespaceName=Exif.Image.XPKeywords
+nsType=0
+secondNameOpts=0
+separator=;
+specialOpts=0
+subspace=0
+tagPaths=1
+
+[DMetadata Settings][readTagsNamespaces][#0004]
+alternativeName=
+convertRatio=
+index=3
+isDefault=true
+isDisabled=false
+namespaceName=Xmp.digiKam.TagsList
+nsType=0
+secondNameOpts=0
+separator=/
+specialOpts=6
+subspace=2
+tagPaths=1
+
+[DMetadata Settings][readTagsNamespaces][#0005]
+alternativeName=
+convertRatio=
+index=4
+isDefault=true
+isDisabled=false
+namespaceName=Xmp.MicrosoftPhoto.LastKeywordXMP
+nsType=0
+secondNameOpts=0
+separator=/
+specialOpts=5
+subspace=2
+tagPaths=1
+
+[DMetadata Settings][readTagsNamespaces][#0006]
+alternativeName=Xmp.lr.HierarchicalSubject
+convertRatio=
+index=5
+isDefault=true
+isDisabled=false
+namespaceName=Xmp.lr.hierarchicalSubject
+nsType=0
+secondNameOpts=6
+separator=|
+specialOpts=5
+subspace=2
+tagPaths=1
+
+[DMetadata Settings][readTagsNamespaces][#0007]
+alternativeName=
+convertRatio=
+index=6
+isDefault=true
+isDisabled=false
+namespaceName=Xmp.mediapro.CatalogSets
+nsType=0
+secondNameOpts=0
+separator=|
+specialOpts=5
+subspace=2
+tagPaths=1
+
+[DMetadata Settings][readTagsNamespaces][#0008]
+alternativeName=
+convertRatio=
+index=7
+isDefault=true
+isDisabled=false
+namespaceName=Xmp.acdsee.categories
+nsType=0
+secondNameOpts=0
+separator=/
+specialOpts=7
+subspace=2
+tagPaths=1
+
+[DMetadata Settings][writeCommentNamespaces][#0001]
+alternativeName=
+convertRatio=
+index=0
+isDefault=true
+isDisabled=false
+namespaceName=Xmp.dc.description
+nsType=2
+secondNameOpts=0
+separator=
+specialOpts=2
+subspace=2
+tagPaths=1
+
+[DMetadata Settings][writeCommentNamespaces][#0002]
+alternativeName=
+convertRatio=
+index=1
+isDefault=true
+isDisabled=false
+namespaceName=Xmp.exif.UserComment
+nsType=2
+secondNameOpts=0
+separator=
+specialOpts=1
+subspace=2
+tagPaths=1
+
+[DMetadata Settings][writeCommentNamespaces][#0003]
+alternativeName=
+convertRatio=
+index=2
+isDefault=true
+isDisabled=false
+namespaceName=Xmp.tiff.ImageDescription
+nsType=2
+secondNameOpts=0
+separator=
+specialOpts=1
+subspace=2
+tagPaths=1
+
+[DMetadata Settings][writeCommentNamespaces][#0004]
+alternativeName=
+convertRatio=
+index=3
+isDefault=true
+isDisabled=false
+namespaceName=Xmp.acdsee.notes
+nsType=2
+secondNameOpts=0
+separator=
+specialOpts=3
+subspace=2
+tagPaths=1
+
+[DMetadata Settings][writeCommentNamespaces][#0005]
+alternativeName=
+convertRatio=
+index=4
+isDefault=true
+isDisabled=false
+namespaceName=JPEG/TIFF Comments
+nsType=2
+secondNameOpts=0
+separator=
+specialOpts=4
+subspace=2
+tagPaths=1
+
+[DMetadata Settings][writeCommentNamespaces][#0006]
+alternativeName=Exif.Photo.UserComment
+convertRatio=
+index=5
+isDefault=true
+isDisabled=false
+namespaceName=Exif.Image.ImageDescription
+nsType=2
+secondNameOpts=0
+separator=
+specialOpts=0
+subspace=0
+tagPaths=1
+
+[DMetadata Settings][writeCommentNamespaces][#0007]
+alternativeName=
+convertRatio=
+index=6
+isDefault=true
+isDisabled=false
+namespaceName=Iptc.Application2.Caption
+nsType=2
+secondNameOpts=0
+separator=
+specialOpts=0
+subspace=1
+tagPaths=1
+
+[DMetadata Settings][writeCommentNamespaces][#0008]
+alternativeName=
+convertRatio=
+index=7
+isDefault=false
+isDisabled=false
+namespaceName=Xmp.photoshop.headline
+nsType=2
+secondNameOpts=0
+separator=
+specialOpts=3
+subspace=2
+tagPaths=0
+
+[DMetadata Settings][writeRatingNamespaces][#0001]
+alternativeName=
+convertRatio=0,1,2,3,4,5
+index=0
+isDefault=true
+isDisabled=false
+namespaceName=Xmp.xmp.Rating
+nsType=1
+secondNameOpts=0
+separator=
+specialOpts=0
+subspace=2
+tagPaths=1
+
+[DMetadata Settings][writeRatingNamespaces][#0002]
+alternativeName=
+convertRatio=0,1,2,3,4,5
+index=1
+isDefault=true
+isDisabled=false
+namespaceName=Xmp.acdsee.rating
+nsType=1
+secondNameOpts=0
+separator=
+specialOpts=0
+subspace=2
+tagPaths=1
+
+[DMetadata Settings][writeRatingNamespaces][#0003]
+alternativeName=
+convertRatio=0,1,25,50,75,99
+index=2
+isDefault=true
+isDisabled=false
+namespaceName=Xmp.MicrosoftPhoto.Rating
+nsType=1
+secondNameOpts=0
+separator=
+specialOpts=0
+subspace=2
+tagPaths=1
+
+[DMetadata Settings][writeRatingNamespaces][#0004]
+alternativeName=
+convertRatio=0,1,2,3,4,5
+index=3
+isDefault=true
+isDisabled=false
+namespaceName=Exif.Image.0x4746
+nsType=1
+secondNameOpts=0
+separator=
+specialOpts=0
+subspace=0
+tagPaths=1
+
+[DMetadata Settings][writeRatingNamespaces][#0005]
+alternativeName=
+convertRatio=0,1,25,50,75,99
+index=4
+isDefault=true
+isDisabled=false
+namespaceName=Exif.Image.0x4749
+nsType=1
+secondNameOpts=0
+separator=
+specialOpts=0
+subspace=0
+tagPaths=1
+
+[DMetadata Settings][writeRatingNamespaces][#0006]
+alternativeName=
+convertRatio=8,6,5,4,2,1
+index=5
+isDefault=true
+isDisabled=false
+namespaceName=Iptc.Application2.Urgency
+nsType=1
+secondNameOpts=0
+separator=
+specialOpts=0
+subspace=1
+tagPaths=1
+
+[DMetadata Settings][writeRatingNamespaces][#0007]
+alternativeName=
+convertRatio=0,1,25,50,75,99
+index=6
+isDefault=false
+isDisabled=false
+namespaceName=Xmp.xmp.RatingPercent
+nsType=1
+secondNameOpts=0
+separator=
+specialOpts=0
+subspace=2
+tagPaths=0
+
+[DMetadata Settings][writeTagsNamespaces][#0001]
+alternativeName=
+convertRatio=
+index=0
+isDefault=true
+isDisabled=false
+namespaceName=Xmp.dc.subject
+nsType=0
+secondNameOpts=0
+separator=/
+specialOpts=5
+subspace=2
+tagPaths=0
+
+[DMetadata Settings][writeTagsNamespaces][#0002]
+alternativeName=
+convertRatio=
+index=1
+isDefault=true
+isDisabled=false
+namespaceName=Iptc.Application2.Keywords
+nsType=0
+secondNameOpts=0
+separator=.
+specialOpts=0
+subspace=1
+tagPaths=1
+
+[DMetadata Settings][writeTagsNamespaces][#0003]
+alternativeName=
+convertRatio=
+index=2
+isDefault=true
+isDisabled=false
+namespaceName=Xmp.digiKam.TagsList
+nsType=0
+secondNameOpts=0
+separator=/
+specialOpts=6
+subspace=2
+tagPaths=1
+
+[DMetadata Settings][writeTagsNamespaces][#0004]
+alternativeName=
+convertRatio=
+index=3
+isDefault=true
+isDisabled=false
+namespaceName=Xmp.MicrosoftPhoto.LastKeywordXMP
+nsType=0
+secondNameOpts=0
+separator=/
+specialOpts=5
+subspace=2
+tagPaths=1
+
+[DMetadata Settings][writeTagsNamespaces][#0005]
+alternativeName=Xmp.lr.HierarchicalSubject
+convertRatio=
+index=4
+isDefault=true
+isDisabled=false
+namespaceName=Xmp.lr.hierarchicalSubject
+nsType=0
+secondNameOpts=6
+separator=|
+specialOpts=5
+subspace=2
+tagPaths=1
+
+[DMetadata Settings][writeTagsNamespaces][#0006]
+alternativeName=
+convertRatio=
+index=5
+isDefault=true
+isDisabled=false
+namespaceName=Xmp.mediapro.CatalogSets
+nsType=0
+secondNameOpts=0
+separator=|
+specialOpts=5
+subspace=2
+tagPaths=1
+
+[DMetadata Settings][writeTagsNamespaces][#0007]
+alternativeName=
+convertRatio=
+index=6
+isDefault=true
+isDisabled=false
+namespaceName=Xmp.acdsee.categories
+nsType=0
+secondNameOpts=0
+separator=/
+specialOpts=7
+subspace=2
+tagPaths=1
+
+[DMetadata Settings][writeTagsNamespaces][#0008]
+alternativeName=
+convertRatio=
+index=7
+isDefault=true
+isDisabled=false
+namespaceName=Exif.Image.XPKeywords
+nsType=0
+secondNameOpts=0
+separator=;
+specialOpts=0
+subspace=0
+tagPaths=1
+
+[Database Settings]
+Database Connectoptions=
+Database Encrypted Password=
+Database Hostname=
+Database Name=/ssd/digikam/
+Database Name Face=/ssd/digikam/
+Database Name Similarity=/ssd/digikam/
+Database Name Thumbnails=/ssd/digikam/
+Database Password=
+Database Port=-1
+Database Type=QSQLITE
+Database Username=
+Internal Database Server=false
+Internal Database Server Mysql Init Command=
+Internal Database Server Mysql Server Command=
+Internal Database Server Path=
+
+[DateFolderView Sidebar]
+CurrentIndex=12
+Expansion=1,11
+Selection=12
+SortColumn=0
+SortOrder=0
+
+[Digikam Left Sidebar]
+ActiveTab=0
+Minimized=false
+RestoreSize=-1
+
+[Digikam Right Sidebar]
+ActiveTab=1
+DigikamProperties Expanded=true
+FileProperties Expanded=true
+ItemProperties Expanded=true
+Minimized=false
+PhotographProperties Expanded=true
+RestoreSize=-1
+VideoProperties Expanded=true
+
+[Digikam Right Sidebar][Captions Tags Properties Tab]
+Contact Expanded=true
+ImageDescEdit Tab=1
+ImageDescEditTab CaptionsLang=x-default
+ImageDescEditTab SearchBarCaseSensitive=0
+ImageDescEditTab TagCheckViewCurrentIndex=127
+ImageDescEditTab TagCheckViewExpansion=0,30,123,91
+ImageDescEditTab TagCheckViewRestoreChecked=false
+ImageDescEditTab TagCheckViewSelection=127
+ImageDescEditTab TagCheckViewSortColumn=0
+ImageDescEditTab TagCheckViewSortOrder=0
+ImageDescEditTab TagCheckViewToggle Auto Tags=0
+ImageDescEditTab TitleLang=x-default
+ItemDescEdit Tab=1
+ItemDescEditTab CaptionsLang=x-default
+ItemDescEditTab SearchBarCaseSensitive=0
+ItemDescEditTab TagCheckViewCurrentIndex=63
+ItemDescEditTab TagCheckViewExpansion=0,48,91
+ItemDescEditTab TagCheckViewRestoreChecked=false
+ItemDescEditTab TagCheckViewSelection=
+ItemDescEditTab TagCheckViewSortColumn=0
+ItemDescEditTab TagCheckViewSortOrder=0
+ItemDescEditTab TagCheckViewToggle Auto Tags=0
+ItemDescEditTab TitleLang=x-default
+Location Expanded=true
+Rights Expanded=true
+Subjects Expanded=true
+
+[Digikam Right Sidebar][Color Properties Tab]
+Current ICC Item=
+Histogram Channel=0
+Histogram Scale=1
+ICC Level=2
+ImagePropertiesColors Tab=0
+
+[Digikam Right Sidebar][GPS Properties Tab]
+Sort Order=0
+Web GPS Locator=0
+
+[Digikam Right Sidebar][GPS Properties Tab][Map Widget]
+Backend=marble
+Center=geo:52,6
+GoogleMaps Map Type=ROADMAP
+GoogleMaps Show Map Type Control=true
+GoogleMaps Show Navigation Control=true
+GoogleMaps Show Scale Control=true
+Marble Map Theme=atlas
+Marble Projection=spherical
+Marble Show Compass=false
+Marble Show Navigation=false
+Marble Show Overview Map=false
+Marble Show Scale Bar=false
+Marker Grouping Radius=1
+Mouse Mode=0
+Preview Grouped Items=true
+Preview Single Items=true
+Show Thumbnails=true
+Show numbers on items=true
+Sticky Mode State=false
+Thumbnail Grouping Radius=30
+Thumbnail Size=60
+Zoom=marble:900
+
+[Digikam Right Sidebar][Metadata Properties Tab]
+Current EXIF Item=
+Current IPTC Item=
+Current MAKERNOTE Item=
+Current XMP Item=
+EXIF Level=0
+IPTC Level=0
+ImagePropertiesMetaData Tab=3
+MAKERNOTE Level=2
+XMP Level=0
+
+[Digikam Right Sidebar][Version Properties Tab]
+Version Properties Tab=versions
+Version Properties View Mode=2
+
+[DigikamViewFolderSearchBar Search Text Tool]
+CaseSensitive=0
+
+[DigikamViewPeopleSearchBar Search Text Tool]
+CaseSensitive=0
+
+[DigikamViewSearchSearchBar Search Text Tool]
+CaseSensitive=0
+
+[DigikamViewTagFilterSearchBar Search Text Tool]
+CaseSensitive=0
+
+[DigikamViewTagFilterView]
+CurrentIndex=126
+Expansion=30
+RestoreChecked=false
+Selection=126
+SortColumn=0
+SortOrder=0
+Toggle Auto Tags=0
+
+[DigikamViewTagSearchBar Search Text Tool]
+CaseSensitive=0
+
+[EnabledDPlugins]
+org.kde.digikam.plugin.editor.AdjustCurvesTool=true
+org.kde.digikam.plugin.editor.AdjustLevelsTool=true
+org.kde.digikam.plugin.editor.AntiVignettingTool=true
+org.kde.digikam.plugin.editor.AutoCorrectionTool=true
+org.kde.digikam.plugin.editor.AutoCropTool=true
+org.kde.digikam.plugin.editor.BCGTool=true
+org.kde.digikam.plugin.editor.BWSepiaTool=true
+org.kde.digikam.plugin.editor.BlurFXTool=true
+org.kde.digikam.plugin.editor.BlurTool=true
+org.kde.digikam.plugin.editor.BorderTool=false
+org.kde.digikam.plugin.editor.CBTool=true
+org.kde.digikam.plugin.editor.ChannelMixerTool=true
+org.kde.digikam.plugin.editor.CharcoalTool=true
+org.kde.digikam.plugin.editor.ColorFXTool=true
+org.kde.digikam.plugin.editor.ContentAwareResizeTool=true
+org.kde.digikam.plugin.editor.Convert16To8Tool=true
+org.kde.digikam.plugin.editor.Convert8To16Tool=true
+org.kde.digikam.plugin.editor.DistortionFXTool=true
+org.kde.digikam.plugin.editor.EmbossTool=true
+org.kde.digikam.plugin.editor.FilmGrainTool=true
+org.kde.digikam.plugin.editor.FilmTool=true
+org.kde.digikam.plugin.editor.FreeRotationTool=true
+org.kde.digikam.plugin.editor.GmicQt=true
+org.kde.digikam.plugin.editor.HSLTool=true
+org.kde.digikam.plugin.editor.HealingCloneTool=true
+org.kde.digikam.plugin.editor.HotPixelsTool=true
+org.kde.digikam.plugin.editor.InsertTextTool=false
+org.kde.digikam.plugin.editor.InvertTool=true
+org.kde.digikam.plugin.editor.LensAutoFixTool=true
+org.kde.digikam.plugin.editor.LensDistortionTool=true
+org.kde.digikam.plugin.editor.LocalContrastTool=true
+org.kde.digikam.plugin.editor.OilPaintTool=true
+org.kde.digikam.plugin.editor.PerspectiveTool=true
+org.kde.digikam.plugin.editor.PrintTool=true
+org.kde.digikam.plugin.editor.ProfileConversionTool=true
+org.kde.digikam.plugin.editor.RainDropTool=true
+org.kde.digikam.plugin.editor.RatioCropTool=true
+org.kde.digikam.plugin.editor.RedEyeTool=true
+org.kde.digikam.plugin.editor.ResizeTool=true
+org.kde.digikam.plugin.editor.RestoreTool=true
+org.kde.digikam.plugin.editor.SharpenTool=true
+org.kde.digikam.plugin.editor.ShearTool=true
+org.kde.digikam.plugin.editor.TextureTool=false
+org.kde.digikam.plugin.editor.WhiteBalanceTool=true
+org.kde.digikam.plugin.generic.Box=false
+org.kde.digikam.plugin.generic.Calendar=true
+org.kde.digikam.plugin.generic.DigitalScanner=true
+org.kde.digikam.plugin.generic.DropBox=false
+org.kde.digikam.plugin.generic.ExpoBlending=true
+org.kde.digikam.plugin.generic.FaceBook=false
+org.kde.digikam.plugin.generic.FileCopy=false
+org.kde.digikam.plugin.generic.FileTransfer=true
+org.kde.digikam.plugin.generic.Flickr=false
+org.kde.digikam.plugin.generic.GLViewer=true
+org.kde.digikam.plugin.generic.GeolocationEdit=true
+org.kde.digikam.plugin.generic.GoogleServices=true
+org.kde.digikam.plugin.generic.HtmlGallery=true
+org.kde.digikam.plugin.generic.ImageShack=false
+org.kde.digikam.plugin.generic.ImgUr=false
+org.kde.digikam.plugin.generic.IpFs=false
+org.kde.digikam.plugin.generic.JAlbum=true
+org.kde.digikam.plugin.generic.MediaServer=true
+org.kde.digikam.plugin.generic.MediaWiki=false
+org.kde.digikam.plugin.generic.MetadataEdit=true
+org.kde.digikam.plugin.generic.OneDrive=false
+org.kde.digikam.plugin.generic.Panorama=true
+org.kde.digikam.plugin.generic.Pinterest=false
+org.kde.digikam.plugin.generic.Piwigo=true
+org.kde.digikam.plugin.generic.Presentation=true
+org.kde.digikam.plugin.generic.PrintCreator=true
+org.kde.digikam.plugin.generic.Rajce=false
+org.kde.digikam.plugin.generic.SendByMail=true
+org.kde.digikam.plugin.generic.SmugMug=false
+org.kde.digikam.plugin.generic.TimeAdjust=true
+org.kde.digikam.plugin.generic.Twitter=false
+org.kde.digikam.plugin.generic.VideoSlideShow=true
+org.kde.digikam.plugin.generic.YandexFotki=false
+
+[Face Detection Dialog]
+AlbumComboBox-Checked=2115
+AlbumComboBox-CurrentIndex=2103
+AlbumComboBox-Expansion=1
+AlbumComboBox-RestoreChecked=true
+AlbumComboBox-Selection=2103
+AlbumComboBox-SortColumn=0
+AlbumComboBox-SortOrder=0
+AlbumTypeEntry=0
+Already Scanned Handling=Skip
+Face Scan Main Task=Detect and Recognize Faces
+Settings Widget Visible=false
+TagComboBox-Checked=63
+TagComboBox-CurrentIndex=25
+TagComboBox-Expansion=
+TagComboBox-RestoreChecked=true
+TagComboBox-Selection=25
+TagComboBox-SortColumn=0
+TagComboBox-SortOrder=0
+Use Full CPU=true
+UseWholeAlbumsEntry=false
+UseWholeTagsEntry=false
+
+[Face Detection Settings]
+Detection Accuracy=0.7
+
+[Face Management Settings]
+AlbumComboBox-Checked=2298
+AlbumComboBox-CurrentIndex=-2
+AlbumComboBox-Expansion=1,2271
+AlbumComboBox-RestoreChecked=true
+AlbumComboBox-Selection=-2
+AlbumComboBox-SortColumn=0
+AlbumComboBox-SortOrder=0
+AlbumTypeEntry=0
+Already Scanned Handling=Merge
+Face Scan Main Task=Detect
+TagComboBox-Checked=
+TagComboBox-CurrentIndex=
+TagComboBox-Expansion=
+TagComboBox-RestoreChecked=true
+TagComboBox-Selection=
+TagComboBox-SortColumn=0
+TagComboBox-SortOrder=0
+Use Full CPU=true
+UseWholeAlbumsEntry=false
+UseWholeTagsEntry=false
+
+[Find Duplicates View]
+AlbumComboBox-Checked=
+AlbumComboBox-CurrentIndex=
+AlbumComboBox-Expansion=
+AlbumComboBox-RestoreChecked=true
+AlbumComboBox-Selection=
+AlbumComboBox-SortColumn=0
+AlbumComboBox-SortOrder=0
+AlbumTypeEntry=0
+Last maximum similarity=100
+Last minimum similarity=40
+Last search album tag relation=0
+Last search results restriction=1
+Lower bound for minimum similarity=40
+TagComboBox-Checked=
+TagComboBox-CurrentIndex=
+TagComboBox-Expansion=
+TagComboBox-RestoreChecked=true
+TagComboBox-Selection=
+TagComboBox-SortColumn=0
+TagComboBox-SortOrder=0
+UseWholeAlbumsEntry=false
+UseWholeTagsEntry=false
+
+[Fuzzy Search Sidebar]
+CurrentIndex=
+Expansion=1
+FuzzySearch Tab=0
+Pen Sketch Hue=0
+Pen Sketch Saturation=0
+Pen Sketch Size=10
+Pen Sketch Value=255
+RestoreChecked=false
+Result Sketch items=10
+Selection=
+Similars Maximum Threshold=100
+Similars Threshold=90
+SortColumn=0
+SortOrder=0
+
+[Fuzzy Search View]
+AlbumComboBox-Checked=
+AlbumComboBox-CurrentIndex=
+AlbumComboBox-Expansion=1
+AlbumComboBox-RestoreChecked=true
+AlbumComboBox-Selection=
+AlbumComboBox-SortColumn=0
+AlbumComboBox-SortOrder=0
+UseWholeAlbumsEntry=true
+
+[FuzzySearchViewSearchFuzzyBar Search Text Tool]
+CaseSensitive=0
+
+[GPS Search Sidebar]
+CurrentIndex=19
+Expansion=
+RestoreChecked=false
+Selection=
+Sort Order=0
+SortColumn=0
+SortOrder=0
+SplitterState=AAAA/wAAAAEAAAACAAABeQAAAN8B/////wEAAAACAA==
+
+[GPS Search Sidebar][GPSSearch Map Widget]
+Backend=marble
+Center=geo:43.2017521226,-86.4777828943
+GoogleMaps Map Type=ROADMAP
+GoogleMaps Show Map Type Control=true
+GoogleMaps Show Navigation Control=true
+GoogleMaps Show Scale Control=true
+Marble Map Theme=openstreetmap
+Marble Projection=mercator
+Marble Show Compass=false
+Marble Show Navigation=false
+Marble Show Overview Map=false
+Marble Show Scale Bar=false
+Marker Grouping Radius=1
+Mouse Mode=2
+Preview Grouped Items=true
+Preview Single Items=true
+Show Thumbnails=true
+Show numbers on items=true
+Thumbnail Grouping Radius=27
+Thumbnail Size=54
+Zoom=marble:1664
+
+[GPSSearchViewSearchGPSBar Search Text Tool]
+CaseSensitive=0
+
+[General Settings]
+Application Font=Sans Serif,9,-1,5,50,0,0,0,0,0
+Application Style=fusion
+Apply Sidebar Changes Directly=false
+Clean core DB At Start=false
+Draw Frames To Grouped Items=true
+Face Scanner First Run=true
+Finger Prints Generator First Run=true
+FullScreen Hide SideBars=false
+FullScreen Hide StatusBar=false
+FullScreen Hide ThumbBar=true
+FullScreen Hide ToolBars=false
+Height 1050=814
+Icon Theme=
+Scan At Start=true
+Scroll Current Item To Center=false
+Show Only Face Tags For Assigning Name=true
+Show Permanent Delete Dialog=true
+Show Splash=true
+Show Trash Delete Dialog=false
+State=AAAA/wAAAAD9AAAAAAAABpAAAAOEAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+String Comparison Type=0
+ToolBarsMovable=Disabled
+Use Large Thumbs=false
+Use Native File Dialog=false
+Use Trash=true
+Version=5.9.0
+Width 1680=1075
+Window-Maximized 1050x1680=true
+
+[Geolocation Edit Settings]
+Bookmarks visible=false
+Current Tab=0
+Map Layout=0
+Show oldest images first=false
+Splitter H1 CollapsedSize=0
+SplitterState H1=AAAA/wAAAAEAAAACAAABhgAAAWMB/////wEAAAABAA==
+SplitterState V1=AAAA/wAAAAEAAAACAAAAQgAAAMAB/////wEAAAACAA==
+
+[Geolocation Edit Settings][Correlator Widget]
+GPX File Open Last Directory=/home/roleo/Documents
+Interpolate=true
+Max Gap Time=00:00:30
+Max Inter Dist Time=00:15:00
+Offset Sign=0
+Offset Time=00:00:00
+ShowTracksOnMap=true
+
+[Geolocation Edit Settings][Map Widget]
+Backend=marble
+Center=geo:52,6
+GoogleMaps Map Type=ROADMAP
+GoogleMaps Show Map Type Control=true
+GoogleMaps Show Navigation Control=true
+GoogleMaps Show Scale Control=true
+Marble Map Theme=atlas
+Marble Projection=spherical
+Marble Show Compass=false
+Marble Show Navigation=false
+Marble Show Overview Map=false
+Marble Show Scale Bar=false
+Marker Grouping Radius=1
+Mouse Mode=16
+Preview Grouped Items=true
+Preview Single Items=true
+Show Thumbnails=true
+Show numbers on items=true
+Thumbnail Grouping Radius=30
+Thumbnail Size=60
+Zoom=marble:900
+
+[Geolocation Edit Settings][Reverse Geocoding Widget]
+Hide options=false
+Language=24
+RG Backend=0
+Spacers count=0
+XMP location=false
+
+[Geolocation Edit Settings][Search Widget]
+Keep old results=false
+Search backend=osm
+
+[Geolocation Edit Settings][Tree View]
+Header State=\x00\x00\x00\xff\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\r\x00\x0e\x00\x00\x00\x03\x00\x00\x00\t\x00\x00\x00d\x00\x00\x00\n\x00\x00\x00d\x00\x00\x00\x0b\x00\x00\x00d\x00\x00\x03\xc0\x00\x00\x00\r\x01\x01\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00d\xff\xff\xff\xff\x00\x00\x00\x81\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00<\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00d\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00d\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00d\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00d\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00d\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00d\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00d\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00d\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00d\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x03\xe8\x00\x00\x00\x00d
+Image List Thumbnail Size=60
+
+[Grouping Behaviour]
+Do BQM operations on all=2
+Do Import Export operations on all=2
+Do Kipi operations on all=2
+Do light table operations on all=2
+Do metadata operations on all=2
+Do slideshow operations on all=2
+Operate tools on all=2
+Rename all=2
+
+[Image Properties SideBar]
+EXIF Tags Filter=Exif.GPSInfo.GPSAltitude,Exif.GPSInfo.GPSAltitudeRef,Exif.GPSInfo.GPSAreaInformation,Exif.GPSInfo.GPSDOP,Exif.GPSInfo.GPSDateStamp,Exif.GPSInfo.GPSDestBearing,Exif.GPSInfo.GPSDestBearingRef,Exif.GPSInfo.GPSDestDistance,Exif.GPSInfo.GPSDestDistanceRef,Exif.GPSInfo.GPSDestLatitude,Exif.GPSInfo.GPSDestLatitudeRef,Exif.GPSInfo.GPSDestLongitude,Exif.GPSInfo.GPSDestLongitudeRef,Exif.GPSInfo.GPSDifferential,Exif.GPSInfo.GPSImgDirection,Exif.GPSInfo.GPSImgDirectionRef,Exif.GPSInfo.GPSLatitude,Exif.GPSInfo.GPSLatitudeRef,Exif.GPSInfo.GPSLongitude,Exif.GPSInfo.GPSLongitudeRef,Exif.GPSInfo.GPSMapDatum,Exif.GPSInfo.GPSMeasureMode,Exif.GPSInfo.GPSProcessingMethod,Exif.GPSInfo.GPSSatellites,Exif.GPSInfo.GPSSpeed,Exif.GPSInfo.GPSSpeedRef,Exif.GPSInfo.GPSStatus,Exif.GPSInfo.GPSTimeStamp,Exif.GPSInfo.GPSTrack,Exif.GPSInfo.GPSTrackRef,Exif.GPSInfo.GPSVersionID,Exif.Image.ActiveArea,Exif.Image.AnalogBalance,Exif.Image.AntiAliasStrength,Exif.Image.ApertureValue,Exif.Image.Artist,Exif.Image.AsShotICCProfile,Exif.Image.AsShotNeutral,Exif.Image.AsShotPreProfileMatrix,Exif.Image.AsShotProfileName,Exif.Image.AsShotWhiteXY,Exif.Image.BaselineExposure,Exif.Image.BaselineNoise,Exif.Image.BaselineSharpness,Exif.Image.BatteryLevel,Exif.Image.BayerGreenSplit,Exif.Image.BestQualityScale,Exif.Image.BitsPerSample,Exif.Image.BlackLevel,Exif.Image.BlackLevelDeltaH,Exif.Image.BlackLevelDeltaV,Exif.Image.BlackLevelRepeatDim,Exif.Image.BrightnessValue,Exif.Image.CFALayout,Exif.Image.CFAPattern,Exif.Image.CFAPlaneColor,Exif.Image.CFARepeatPatternDim,Exif.Image.CalibrationIlluminant1,Exif.Image.CalibrationIlluminant2,Exif.Image.CameraCalibration1,Exif.Image.CameraCalibration2,Exif.Image.CameraCalibrationSignature,Exif.Image.CameraLabel,Exif.Image.CameraSerialNumber,Exif.Image.CellLength,Exif.Image.CellWidth,Exif.Image.ChromaBlurRadius,Exif.Image.ClipPath,Exif.Image.ColorMap,Exif.Image.ColorMatrix1,Exif.Image.ColorMatrix2,Exif.Image.ColorimetricReference,Exif.Image.CompressedBitsPerPixel,Exif.Image.Compression,Exif.Image.Copyright,Exif.Image.CurrentICCProfile,Exif.Image.CurrentPreProfileMatrix,Exif.Image.DNGBackwardVersion,Exif.Image.DNGPrivateData,Exif.Image.DNGVersion,Exif.Image.DateTime,Exif.Image.DateTimeOriginal,Exif.Image.DefaultCropOrigin,Exif.Image.DefaultCropSize,Exif.Image.DefaultScale,Exif.Image.DocumentName,Exif.Image.DotRange,Exif.Image.ExifTag,Exif.Image.ExposureBiasValue,Exif.Image.ExposureIndex,Exif.Image.ExposureProgram,Exif.Image.ExposureTime,Exif.Image.ExtraSamples,Exif.Image.FNumber,Exif.Image.FillOrder,Exif.Image.Flash,Exif.Image.FlashEnergy,Exif.Image.FocalLength,Exif.Image.FocalPlaneResolutionUnit,Exif.Image.FocalPlaneXResolution,Exif.Image.FocalPlaneYResolution,Exif.Image.ForwardMatrix1,Exif.Image.ForwardMatrix2,Exif.Image.FrameRate,Exif.Image.GPSTag,Exif.Image.GrayResponseCurve,Exif.Image.GrayResponseUnit,Exif.Image.HalftoneHints,Exif.Image.HostComputer,Exif.Image.IPTCNAA,Exif.Image.ISOSpeedRatings,Exif.Image.ImageDescription,Exif.Image.ImageHistory,Exif.Image.ImageID,Exif.Image.ImageLength,Exif.Image.ImageNumber,Exif.Image.ImageResources,Exif.Image.ImageWidth,Exif.Image.Indexed,Exif.Image.InkNames,Exif.Image.InkSet,Exif.Image.InterColorProfile,Exif.Image.Interlace,Exif.Image.JPEGACTables,Exif.Image.JPEGDCTables,Exif.Image.JPEGInterchangeFormat,Exif.Image.JPEGInterchangeFormatLength,Exif.Image.JPEGLosslessPredictors,Exif.Image.JPEGPointTransforms,Exif.Image.JPEGProc,Exif.Image.JPEGQTables,Exif.Image.JPEGRestartInterval,Exif.Image.JPEGTables,Exif.Image.LensInfo,Exif.Image.LightSource,Exif.Image.LinearResponseLimit,Exif.Image.LinearizationTable,Exif.Image.LocalizedCameraModel,Exif.Image.Make,Exif.Image.MakerNoteSafety,Exif.Image.MaskedAreas,Exif.Image.MaxApertureValue,Exif.Image.MeteringMode,Exif.Image.Model,Exif.Image.NewSubfileType,Exif.Image.Noise,Exif.Image.NoiseProfile,Exif.Image.NoiseReductionApplied,Exif.Image.NumberOfInks,Exif.Image.OECF,Exif.Image.OPIProxy,Exif.Image.OpcodeList1,Exif.Image.OpcodeList2,Exif.Image.OpcodeList3,Exif.Image.Orientation,Exif.Image.OriginalRawFileData,Exif.Image.OriginalRawFileDigest,Exif.Image.OriginalRawFileName,Exif.Image.PageNumber,Exif.Image.PhotometricInterpretation,Exif.Image.PlanarConfiguration,Exif.Image.Predictor,Exif.Image.PreviewApplicationName,Exif.Image.PreviewApplicationVersion,Exif.Image.PreviewColorSpace,Exif.Image.PreviewDateTime,Exif.Image.PreviewSettingsDigest,Exif.Image.PreviewSettingsName,Exif.Image.PrimaryChromaticities,Exif.Image.PrintImageMatching,Exif.Image.ProcessingSoftware,Exif.Image.ProfileCalibrationSignature,Exif.Image.ProfileCopyright,Exif.Image.ProfileEmbedPolicy,Exif.Image.ProfileHueSatMapData1,Exif.Image.ProfileHueSatMapData2,Exif.Image.ProfileHueSatMapDims,Exif.Image.ProfileLookTableData,Exif.Image.ProfileLookTableDims,Exif.Image.ProfileName,Exif.Image.ProfileToneCurve,Exif.Image.Rating,Exif.Image.RatingPercent,Exif.Image.RawDataUniqueID,Exif.Image.RawImageDigest,Exif.Image.ReductionMatrix1,Exif.Image.ReductionMatrix2,Exif.Image.ReelName,Exif.Image.ReferenceBlackWhite,Exif.Image.ResolutionUnit,Exif.Image.RowInterleaveFactor,Exif.Image.RowsPerStrip,Exif.Image.SMaxSampleValue,Exif.Image.SMinSampleValue,Exif.Image.SampleFormat,Exif.Image.SamplesPerPixel,Exif.Image.SecurityClassification,Exif.Image.SelfTimerMode,Exif.Image.SensingMethod,Exif.Image.ShadowScale,Exif.Image.ShutterSpeedValue,Exif.Image.Software,Exif.Image.SpatialFrequencyResponse,Exif.Image.SpectralSensitivity,Exif.Image.StripByteCounts,Exif.Image.StripOffsets,Exif.Image.SubIFDs,Exif.Image.SubTileBlockSize,Exif.Image.SubfileType,Exif.Image.SubjectDistance,Exif.Image.SubjectLocation,Exif.Image.T4Options,Exif.Image.T6Options,Exif.Image.TIFFEPStandardID,Exif.Image.TStop,Exif.Image.TargetPrinter,Exif.Image.Thresholding,Exif.Image.TileByteCounts,Exif.Image.TileLength,Exif.Image.TileOffsets,Exif.Image.TileWidth,Exif.Image.TimeCodes,Exif.Image.TimeZoneOffset,Exif.Image.TransferFunction,Exif.Image.TransferRange,Exif.Image.UniqueCameraModel,Exif.Image.WhiteLevel,Exif.Image.WhitePoint,Exif.Image.XClipPathUnits,Exif.Image.XMLPacket,Exif.Image.XPAuthor,Exif.Image.XPComment,Exif.Image.XPKeywords,Exif.Image.XPSubject,Exif.Image.XPTitle,Exif.Image.XResolution,Exif.Image.YCbCrCoefficients,Exif.Image.YCbCrPositioning,Exif.Image.YCbCrSubSampling,Exif.Image.YClipPathUnits,Exif.Image.YResolution,Exif.Iop.InteroperabilityIndex,Exif.Iop.InteroperabilityVersion,Exif.Iop.RelatedImageFileFormat,Exif.Iop.RelatedImageLength,Exif.Iop.RelatedImageWidth,Exif.MpfInfo.MPFAxisDistanceX,Exif.MpfInfo.MPFAxisDistanceY,Exif.MpfInfo.MPFAxisDistanceZ,Exif.MpfInfo.MPFBaseViewpointNum,Exif.MpfInfo.MPFBaselineLength,Exif.MpfInfo.MPFConvergenceAngle,Exif.MpfInfo.MPFImageList,Exif.MpfInfo.MPFImageUIDList,Exif.MpfInfo.MPFIndividualNum,Exif.MpfInfo.MPFNumberOfImages,Exif.MpfInfo.MPFPanOrientation,Exif.MpfInfo.MPFPanOverlapH,Exif.MpfInfo.MPFPanOverlapV,Exif.MpfInfo.MPFPitchAngle,Exif.MpfInfo.MPFRollAngle,Exif.MpfInfo.MPFTotalFrames,Exif.MpfInfo.MPFVersion,Exif.MpfInfo.MPFVerticalDivergence,Exif.MpfInfo.MPFYawAngle,Exif.PanasonicRaw.BlueBalance,Exif.PanasonicRaw.ExifTag,Exif.PanasonicRaw.GPSTag,Exif.PanasonicRaw.ISOSpeed,Exif.PanasonicRaw.ImageHeight,Exif.PanasonicRaw.ImageWidth,Exif.PanasonicRaw.Make,Exif.PanasonicRaw.Model,Exif.PanasonicRaw.Orientation,Exif.PanasonicRaw.PreviewImage,Exif.PanasonicRaw.RawDataOffset,Exif.PanasonicRaw.RedBalance,Exif.PanasonicRaw.RowsPerStrip,Exif.PanasonicRaw.SensorHeight,Exif.PanasonicRaw.SensorLeftBorder,Exif.PanasonicRaw.SensorTopBorder,Exif.PanasonicRaw.SensorWidth,Exif.PanasonicRaw.StripByteCounts,Exif.PanasonicRaw.StripOffsets,Exif.PanasonicRaw.Version,Exif.PanasonicRaw.WBBlueLevel,Exif.PanasonicRaw.WBGreenLevel,Exif.PanasonicRaw.WBRedLevel,Exif.Photo.ApertureValue,Exif.Photo.BodySerialNumber,Exif.Photo.BrightnessValue,Exif.Photo.CFAPattern,Exif.Photo.CameraOwnerName,Exif.Photo.ColorSpace,Exif.Photo.ComponentsConfiguration,Exif.Photo.CompressedBitsPerPixel,Exif.Photo.Contrast,Exif.Photo.CustomRendered,Exif.Photo.DateTimeDigitized,Exif.Photo.DateTimeOriginal,Exif.Photo.DeviceSettingDescription,Exif.Photo.DigitalZoomRatio,Exif.Photo.ExifVersion,Exif.Photo.ExposureBiasValue,Exif.Photo.ExposureIndex,Exif.Photo.ExposureMode,Exif.Photo.ExposureProgram,Exif.Photo.ExposureTime,Exif.Photo.FNumber,Exif.Photo.FileSource,Exif.Photo.Flash,Exif.Photo.FlashEnergy,Exif.Photo.FlashpixVersion,Exif.Photo.FocalLength,Exif.Photo.FocalLengthIn35mmFilm,Exif.Photo.FocalPlaneResolutionUnit,Exif.Photo.FocalPlaneXResolution,Exif.Photo.FocalPlaneYResolution,Exif.Photo.GainControl,Exif.Photo.ISOSpeed,Exif.Photo.ISOSpeedLatitudeyyy,Exif.Photo.ISOSpeedLatitudezzz,Exif.Photo.ISOSpeedRatings,Exif.Photo.ImageUniqueID,Exif.Photo.InteroperabilityTag,Exif.Photo.LensMake,Exif.Photo.LensModel,Exif.Photo.LensSerialNumber,Exif.Photo.LensSpecification,Exif.Photo.LightSource,Exif.Photo.MakerNote,Exif.Photo.MaxApertureValue,Exif.Photo.MeteringMode,Exif.Photo.OECF,Exif.Photo.PixelXDimension,Exif.Photo.PixelYDimension,Exif.Photo.RecommendedExposureIndex,Exif.Photo.RelatedSoundFile,Exif.Photo.Saturation,Exif.Photo.SceneCaptureType,Exif.Photo.SceneType,Exif.Photo.SensingMethod,Exif.Photo.SensitivityType,Exif.Photo.Sharpness,Exif.Photo.ShutterSpeedValue,Exif.Photo.SpatialFrequencyResponse,Exif.Photo.SpectralSensitivity,Exif.Photo.StandardOutputSensitivity,Exif.Photo.SubSecTime,Exif.Photo.SubSecTimeDigitized,Exif.Photo.SubSecTimeOriginal,Exif.Photo.SubjectArea,Exif.Photo.SubjectDistance,Exif.Photo.SubjectDistanceRange,Exif.Photo.SubjectLocation,Exif.Photo.UserComment,Exif.Photo.WhiteBalance
+IPTC Tags Filter=Iptc.Application2.ActionAdvised,Iptc.Application2.AudioDuration,Iptc.Application2.AudioOutcue,Iptc.Application2.AudioRate,Iptc.Application2.AudioResolution,Iptc.Application2.AudioType,Iptc.Application2.Byline,Iptc.Application2.BylineTitle,Iptc.Application2.Caption,Iptc.Application2.Category,Iptc.Application2.City,Iptc.Application2.Contact,Iptc.Application2.Copyright,Iptc.Application2.CountryCode,Iptc.Application2.CountryName,Iptc.Application2.Credit,Iptc.Application2.DateCreated,Iptc.Application2.DigitizationDate,Iptc.Application2.DigitizationTime,Iptc.Application2.EditStatus,Iptc.Application2.EditorialUpdate,Iptc.Application2.ExpirationDate,Iptc.Application2.ExpirationTime,Iptc.Application2.FixtureId,Iptc.Application2.Headline,Iptc.Application2.ImageOrientation,Iptc.Application2.ImageType,Iptc.Application2.Keywords,Iptc.Application2.Language,Iptc.Application2.LocationCode,Iptc.Application2.LocationName,Iptc.Application2.ObjectAttribute,Iptc.Application2.ObjectCycle,Iptc.Application2.ObjectName,Iptc.Application2.ObjectType,Iptc.Application2.Preview,Iptc.Application2.PreviewFormat,Iptc.Application2.PreviewVersion,Iptc.Application2.Program,Iptc.Application2.ProgramVersion,Iptc.Application2.ProvinceState,Iptc.Application2.RasterizedCaption,Iptc.Application2.RecordVersion,Iptc.Application2.ReferenceDate,Iptc.Application2.ReferenceNumber,Iptc.Application2.ReferenceService,Iptc.Application2.ReleaseDate,Iptc.Application2.ReleaseTime,Iptc.Application2.Source,Iptc.Application2.SpecialInstructions,Iptc.Application2.SubLocation,Iptc.Application2.Subject,Iptc.Application2.SuppCategory,Iptc.Application2.TimeCreated,Iptc.Application2.TransmissionReference,Iptc.Application2.Urgency,Iptc.Application2.Writer,Iptc.Envelope.ARMId,Iptc.Envelope.ARMVersion,Iptc.Envelope.CharacterSet,Iptc.Envelope.DateSent,Iptc.Envelope.Destination,Iptc.Envelope.EnvelopeNumber,Iptc.Envelope.EnvelopePriority,Iptc.Envelope.FileFormat,Iptc.Envelope.FileVersion,Iptc.Envelope.ModelVersion,Iptc.Envelope.ProductId,Iptc.Envelope.ServiceId,Iptc.Envelope.TimeSent,Iptc.Envelope.UNO
+MAKERNOTE Tags Filter=Exif.Canon.OwnerName,Exif.CanonCf.NoiseReduction,Exif.CanonCs.AFPoint,Exif.CanonCs.Contrast,Exif.CanonCs.DigitalZoom,Exif.CanonCs.ExposureProgram,Exif.CanonCs.FlashMode,Exif.CanonCs.FocusMode,Exif.CanonCs.FocusType,Exif.CanonCs.ISOSpeed,Exif.CanonCs.ImageStabilization,Exif.CanonCs.Lens,Exif.CanonCs.LensType,Exif.CanonCs.Macro,Exif.CanonCs.MeteringMode,Exif.CanonCs.Quality,Exif.CanonCs.Saturation,Exif.CanonCs.Sharpness,Exif.CanonFi.NoiseReduction,Exif.CanonPr.ColorTemperature,Exif.CanonPr.Sharpness,Exif.CanonPr.WhiteBalance,Exif.CanonSi.FlashBias,Exif.CanonSi.ISOSpeed,Exif.CanonSi.ShutterSpeedValue,Exif.CanonSi.SubjectDistance,Exif.CanonSi.WhiteBalance,Exif.Casio.AFPoint,Exif.Casio.Contrast,Exif.Casio.DigitalZoom,Exif.Casio.FlashMode,Exif.Casio.FocusMode,Exif.Casio.Quality,Exif.Casio.Saturation,Exif.Casio.Sharpness,Exif.Casio.WhiteBalance,Exif.Casio2.AFMode,Exif.Casio2.ColorMode,Exif.Casio2.Contrast,Exif.Casio2.FocusMode,Exif.Casio2.ISOSpeed,Exif.Casio2.ImageStabilization,Exif.Casio2.Quality,Exif.Casio2.Saturation,Exif.Casio2.Sharpness,Exif.Casio2.WhiteBalance,Exif.Casio2.WhiteBalanceBias,Exif.Fujifilm.FlashMode,Exif.Fujifilm.FocusMode,Exif.Fujifilm.Macro,Exif.Fujifilm.Quality,Exif.Fujifilm.Sharpness,Exif.Fujifilm.Tone,Exif.Fujifilm.WhiteBalance,Exif.Image.ExposureProgram,Exif.Image.FNumber,Exif.Image.Flash,Exif.Image.MeteringMode,Exif.Image.ShutterSpeedValue,Exif.Image.SubjectDistance,Exif.Minolta.ColorMode,Exif.Minolta.ColorTemperature,Exif.Minolta.ImageStabilization,Exif.Minolta.Quality,Exif.Minolta.WhiteBalance,Exif.MinoltaCs5D.AFMode,Exif.MinoltaCs5D.ColorTemperature,Exif.MinoltaCs5D.Contrast,Exif.MinoltaCs5D.ExposureCompensation,Exif.MinoltaCs5D.ExposureManualBias,Exif.MinoltaCs5D.ExposureMode,Exif.MinoltaCs5D.FNumber,Exif.MinoltaCs5D.FocusMode,Exif.MinoltaCs5D.ISOSpeed,Exif.MinoltaCs5D.ImageStabilization,Exif.MinoltaCs5D.MeteringMode,Exif.MinoltaCs5D.NoiseReduction,Exif.MinoltaCs5D.Quality,Exif.MinoltaCs5D.Saturation,Exif.MinoltaCs5D.Sharpness,Exif.MinoltaCs5D.WhiteBalance,Exif.MinoltaCs7D.ColorTemperature,Exif.MinoltaCs7D.Contrast,Exif.MinoltaCs7D.ExposureCompensation,Exif.MinoltaCs7D.ExposureMode,Exif.MinoltaCs7D.FNumber,Exif.MinoltaCs7D.FlashMode,Exif.MinoltaCs7D.FocusMode,Exif.MinoltaCs7D.Hue,Exif.MinoltaCs7D.ISOSpeed,Exif.MinoltaCs7D.ImageStabilization,Exif.MinoltaCs7D.NoiseReduction,Exif.MinoltaCs7D.Quality,Exif.MinoltaCs7D.Saturation,Exif.MinoltaCs7D.Sharpness,Exif.MinoltaCs7D.WhiteBalance,Exif.MinoltaCsNew.ColorMode,Exif.MinoltaCsNew.Contrast,Exif.MinoltaCsNew.DigitalZoom,Exif.MinoltaCsNew.ExposureCompensation,Exif.MinoltaCsNew.ExposureMode,Exif.MinoltaCsNew.FNumber,Exif.MinoltaCsNew.FlashMode,Exif.MinoltaCsNew.FocusDistance,Exif.MinoltaCsNew.FocusMode,Exif.MinoltaCsNew.MeteringMode,Exif.MinoltaCsNew.Quality,Exif.MinoltaCsNew.Saturation,Exif.MinoltaCsNew.Sharpness,Exif.MinoltaCsNew.WhiteBalance,Exif.Nikon1.AFFocusPos,Exif.Nikon1.ColorMode,Exif.Nikon1.DigitalZoom,Exif.Nikon1.Focus,Exif.Nikon1.FocusDistance,Exif.Nikon1.ISOSelection,Exif.Nikon1.ISOSpeed,Exif.Nikon1.Quality,Exif.Nikon1.WhiteBalance,Exif.Nikon2.ColorMode,Exif.Nikon2.DigitalZoom,Exif.Nikon2.Focus,Exif.Nikon2.ISOSpeed,Exif.Nikon2.Quality,Exif.Nikon2.WhiteBalance,Exif.Nikon3.ColorMode,Exif.Nikon3.DigitalZoom,Exif.Nikon3.FlashDevice,Exif.Nikon3.FlashMode,Exif.Nikon3.Focus,Exif.Nikon3.FocusDistance,Exif.Nikon3.HueAdjustment,Exif.Nikon3.ISOSelection,Exif.Nikon3.ISOSpeed,Exif.Nikon3.ImageStabilization,Exif.Nikon3.Lens,Exif.Nikon3.LensType,Exif.Nikon3.NoiseReduction,Exif.Nikon3.Quality,Exif.Nikon3.Saturation,Exif.Nikon3.ShootingMode,Exif.Nikon3.ToneComp,Exif.Nikon3.WhiteBalance,Exif.Nikon3.WhiteBalanceBias,Exif.NikonAf.AFPoint,Exif.NikonLd2.FocusDistance,Exif.NikonLd3.FocusDistance,Exif.NikonPc.Contrast,Exif.NikonPc.HueAdjustment,Exif.NikonPc.Saturation,Exif.NikonPc.Sharpness,Exif.Olympus.Contrast,Exif.Olympus.DigitalZoom,Exif.Olympus.FlashBias,Exif.Olympus.FlashDevice,Exif.Olympus.FlashMode,Exif.Olympus.FocusDistance,Exif.Olympus.FocusMode,Exif.Olympus.ISOSpeed,Exif.Olympus.Macro,Exif.Olympus.MacroFocus,Exif.Olympus.NoiseReduction,Exif.Olympus.Quality,Exif.Olympus.WhiteBalance,Exif.Olympus.WhiteBalanceBias,Exif.OlympusCs.ExposureMode,Exif.OlympusCs.FlashMode,Exif.OlympusCs.FocusMode,Exif.OlympusCs.ImageStabilization,Exif.OlympusCs.MeteringMode,Exif.OlympusCs.NoiseReduction,Exif.OlympusCs.Quality,Exif.OlympusCs.WhiteBalance,Exif.OlympusEq.FlashType,Exif.OlympusEq.LensType,Exif.OlympusFi.AFPoint,Exif.OlympusFi.FocusDistance,Exif.OlympusFi.ImageStabilization,Exif.OlympusFi.InternalFlash,Exif.OlympusIp.NoiseReduction,Exif.OlympusRd.NoiseReduction,Exif.OlympusRd2.NoiseReduction,Exif.OlympusRd2.Saturation,Exif.OlympusRd2.WhiteBalance,Exif.Panasonic.AFMode,Exif.Panasonic.ColorMode,Exif.Panasonic.Contrast,Exif.Panasonic.FlashBias,Exif.Panasonic.FocusMode,Exif.Panasonic.ImageStabilization,Exif.Panasonic.LensType,Exif.Panasonic.Macro,Exif.Panasonic.NoiseReduction,Exif.Panasonic.Quality,Exif.Panasonic.Saturation,Exif.Panasonic.Sharpness,Exif.Panasonic.ShootingMode,Exif.Panasonic.WhiteBalance,Exif.Panasonic.WhiteBalanceBias,Exif.Pentax.AFPoint,Exif.Pentax.ColorTemperature,Exif.Pentax.Contrast,Exif.Pentax.DigitalZoom,Exif.Pentax.ExposureCompensation,Exif.Pentax.FNumber,Exif.Pentax.Flash,Exif.Pentax.Focus,Exif.Pentax.LensType,Exif.Pentax.MeteringMode,Exif.Pentax.NoiseReduction,Exif.Pentax.Quality,Exif.Pentax.Saturation,Exif.Pentax.Sharpness,Exif.Pentax.WhiteBalance,Exif.Samsung2.FNumber,Exif.Samsung2.LensType,Exif.SamsungPictureWizard.Contrast,Exif.SamsungPictureWizard.Saturation,Exif.SamsungPictureWizard.Sharpness,Exif.Sigma.AutofocusMode,Exif.Sigma.Contrast,Exif.Sigma.ExposureMode,Exif.Sigma.FocusSetting,Exif.Sigma.LensRange,Exif.Sigma.MeteringMode,Exif.Sigma.Quality,Exif.Sigma.Saturation,Exif.Sigma.Sharpness,Exif.Sigma.WhiteBalance,Exif.Sony1.AFMode,Exif.Sony1.ColorMode,Exif.Sony1.ColorTemperature,Exif.Sony1.Contrast,Exif.Sony1.ExposureMode,Exif.Sony1.FocusMode,Exif.Sony1.ImageStabilization,Exif.Sony1.Macro,Exif.Sony1.Quality,Exif.Sony1.Saturation,Exif.Sony1.WhiteBalance,Exif.Sony1Cs.Contrast,Exif.Sony1Cs.ExposureProgram,Exif.Sony1Cs.FlashMode,Exif.Sony1Cs.FocusMode,Exif.Sony1Cs.ImageStabilization,Exif.Sony1Cs.MeteringMode,Exif.Sony1Cs.Quality,Exif.Sony1Cs.Saturation,Exif.Sony1Cs.Sharpness,Exif.Sony1Cs2.Contrast,Exif.Sony1Cs2.ExposureProgram,Exif.Sony1Cs2.FlashMode,Exif.Sony1Cs2.FocusMode,Exif.Sony1Cs2.MeteringMode,Exif.Sony1Cs2.Saturation,Exif.Sony1Cs2.Sharpness,Exif.Sony1MltCsA100.ColorMode,Exif.Sony1MltCsA100.ColorTemperature,Exif.Sony1MltCsA100.Contrast,Exif.Sony1MltCsA100.ExposureMode,Exif.Sony1MltCsA100.FNumber,Exif.Sony1MltCsA100.FlashMode,Exif.Sony1MltCsA100.FlashType,Exif.Sony1MltCsA100.FocusMode,Exif.Sony1MltCsA100.ImageStabilization,Exif.Sony1MltCsA100.MeteringMode,Exif.Sony1MltCsA100.NoiseReduction,Exif.Sony1MltCsA100.Quality,Exif.Sony1MltCsA100.Saturation,Exif.Sony1MltCsA100.Sharpness,Exif.Sony1MltCsA100.WhiteBalance
+XMP Tags Filter=Xmp.MicrosoftPhoto.CameraSerialNumber,Xmp.MicrosoftPhoto.DateAcquired,Xmp.MicrosoftPhoto.FlashManufacturer,Xmp.MicrosoftPhoto.FlashModel,Xmp.MicrosoftPhoto.LastKeywordIPTC,Xmp.MicrosoftPhoto.LastKeywordXMP,Xmp.MicrosoftPhoto.LensManufacturer,Xmp.MicrosoftPhoto.LensModel,Xmp.MicrosoftPhoto.Rating,Xmp.aux.Lens,Xmp.aux.SerialNumber,Xmp.crs.Alpha,Xmp.crs.AlreadyApplied,Xmp.crs.Angle,Xmp.crs.AutoBrightness,Xmp.crs.AutoContrast,Xmp.crs.AutoExposure,Xmp.crs.AutoLateralCA,Xmp.crs.AutoShadows,Xmp.crs.AutoWhiteVersion,Xmp.crs.Blacks2012,Xmp.crs.BlueHue,Xmp.crs.BlueSaturation,Xmp.crs.Bottom,Xmp.crs.Brightness,Xmp.crs.CameraProfile,Xmp.crs.CameraProfileDigest,Xmp.crs.CenterValue,Xmp.crs.CenterWeight,Xmp.crs.ChromaticAberrationB,Xmp.crs.ChromaticAberrationR,Xmp.crs.CircularGradientBasedCorrections,Xmp.crs.Clarity,Xmp.crs.Clarity2012,Xmp.crs.ColorNoiseReduction,Xmp.crs.ColorNoiseReductionDetail,Xmp.crs.ColorNoiseReductionSmoothness,Xmp.crs.Contrast,Xmp.crs.Contrast2012,Xmp.crs.ConvertToGrayscale,Xmp.crs.Converter,Xmp.crs.CorrectionMasks,Xmp.crs.CropAngle,Xmp.crs.CropBottom,Xmp.crs.CropConstrainToWarp,Xmp.crs.CropHeight,Xmp.crs.CropLeft,Xmp.crs.CropRight,Xmp.crs.CropTop,Xmp.crs.CropUnit,Xmp.crs.CropUnits,Xmp.crs.CropWidth,Xmp.crs.DNGIgnoreSidecars,Xmp.crs.Dabs,Xmp.crs.DefaultAutoGray,Xmp.crs.DefaultAutoTone,Xmp.crs.DefaultsSpecificToISO,Xmp.crs.DefaultsSpecificToSerial,Xmp.crs.Defringe,Xmp.crs.DefringeGreenAmount,Xmp.crs.DefringeGreenHueHi,Xmp.crs.DefringeGreenHueLo,Xmp.crs.DefringePurpleAmount,Xmp.crs.DefringePurpleHueHi,Xmp.crs.DefringePurpleHueLo,Xmp.crs.Exposure,Xmp.crs.Exposure2012,Xmp.crs.Feather,Xmp.crs.FillLight,Xmp.crs.Flipped,Xmp.crs.Flow,Xmp.crs.FullX,Xmp.crs.FullY,Xmp.crs.GrainAmount,Xmp.crs.GrainFrequency,Xmp.crs.GrainSize,Xmp.crs.GrayMixerAqua,Xmp.crs.GrayMixerBlue,Xmp.crs.GrayMixerGreen,Xmp.crs.GrayMixerMagenta,Xmp.crs.GrayMixerOrange,Xmp.crs.GrayMixerPurple,Xmp.crs.GrayMixerRed,Xmp.crs.GrayMixerYellow,Xmp.crs.GreenHue,Xmp.crs.GreenSaturation,Xmp.crs.HasCrop,Xmp.crs.HasSettings,Xmp.crs.HighlightRecovery,Xmp.crs.Highlights2012,Xmp.crs.HueAdjustmentAqua,Xmp.crs.HueAdjustmentBlue,Xmp.crs.HueAdjustmentGreen,Xmp.crs.HueAdjustmentMagenta,Xmp.crs.HueAdjustmentOrange,Xmp.crs.HueAdjustmentPurple,Xmp.crs.HueAdjustmentRed,Xmp.crs.HueAdjustmentYellow,Xmp.crs.IncrementalTemperature,Xmp.crs.IncrementalTint,Xmp.crs.JPEGHandling,Xmp.crs.Left,Xmp.crs.LensManualDistortionAmount,Xmp.crs.LensProfileChromaticAberrationScale,Xmp.crs.LensProfileDigest,Xmp.crs.LensProfileDistortionScale,Xmp.crs.LensProfileEnable,Xmp.crs.LensProfileFilename,Xmp.crs.LensProfileMatchKeyCameraModelName,Xmp.crs.LensProfileMatchKeyExifMake,Xmp.crs.LensProfileMatchKeyExifModel,Xmp.crs.LensProfileMatchKeyIsRaw,Xmp.crs.LensProfileMatchKeyLensID,Xmp.crs.LensProfileMatchKeyLensInfo,Xmp.crs.LensProfileMatchKeyLensName,Xmp.crs.LensProfileMatchKeySensorFormatFactor,Xmp.crs.LensProfileName,Xmp.crs.LensProfileSetup,Xmp.crs.LensProfileVignettingScale,Xmp.crs.LuminanceAdjustmentAqua,Xmp.crs.LuminanceAdjustmentBlue,Xmp.crs.LuminanceAdjustmentGreen,Xmp.crs.LuminanceAdjustmentMagenta,Xmp.crs.LuminanceAdjustmentOrange,Xmp.crs.LuminanceAdjustmentPurple,Xmp.crs.LuminanceAdjustmentRed,Xmp.crs.LuminanceAdjustmentYellow,Xmp.crs.LuminanceNoiseReductionContrast,Xmp.crs.LuminanceNoiseReductionDetail,Xmp.crs.LuminanceSmoothing,Xmp.crs.MaskValue,Xmp.crs.Method,Xmp.crs.Midpoint,Xmp.crs.MoireFilter,Xmp.crs.NegativeCacheLargePreviewSize,Xmp.crs.NegativeCacheMaximumSize,Xmp.crs.NegativeCachePath,Xmp.crs.OffsetY,Xmp.crs.Opacity,Xmp.crs.PaintBasedCorrections,Xmp.crs.ParametricDarks,Xmp.crs.ParametricHighlightSplit,Xmp.crs.ParametricHighlights,Xmp.crs.ParametricLights,Xmp.crs.ParametricMidtoneSplit,Xmp.crs.ParametricShadowSplit,Xmp.crs.ParametricShadows,Xmp.crs.PerimeterValue,Xmp.crs.PerspectiveAspect,Xmp.crs.PerspectiveHorizontal,Xmp.crs.PerspectiveRotate,Xmp.crs.PerspectiveScale,Xmp.crs.PerspectiveUpright,Xmp.crs.PerspectiveVertical,Xmp.crs.PostCropVignetteAmount,Xmp.crs.PostCropVignetteFeather,Xmp.crs.PostCropVignetteHighlightContrast,Xmp.crs.PostCropVignetteMidpoint,Xmp.crs.PostCropVignetteRoundness,Xmp.crs.PostCropVignetteStyle,Xmp.crs.ProcessVersion,Xmp.crs.Radius,Xmp.crs.RawFileName,Xmp.crs.RedEyeInfo,Xmp.crs.RedHue,Xmp.crs.RedSaturation,Xmp.crs.RetouchAreas,Xmp.crs.RetouchInfo,Xmp.crs.Right,Xmp.crs.Roundness,Xmp.crs.Saturation,Xmp.crs.SaturationAdjustmentAqua,Xmp.crs.SaturationAdjustmentBlue,Xmp.crs.SaturationAdjustmentGreen,Xmp.crs.SaturationAdjustmentMagenta,Xmp.crs.SaturationAdjustmentOrange,Xmp.crs.SaturationAdjustmentPurple,Xmp.crs.SaturationAdjustmentRed,Xmp.crs.SaturationAdjustmentYellow,Xmp.crs.Seed,Xmp.crs.ShadowTint,Xmp.crs.Shadows,Xmp.crs.Shadows2012,Xmp.crs.SharpenDetail,Xmp.crs.SharpenEdgeMasking,Xmp.crs.SharpenRadius,Xmp.crs.Sharpness,Xmp.crs.SizeX,Xmp.crs.SizeY,Xmp.crs.Smoothness,Xmp.crs.SourceState,Xmp.crs.SourceX,Xmp.crs.SplitToningBalance,Xmp.crs.SplitToningHighlightHue,Xmp.crs.SplitToningHighlightSaturation,Xmp.crs.SplitToningShadowHue,Xmp.crs.SplitToningShadowSaturation,Xmp.crs.SpotType,Xmp.crs.TIFFHandling,Xmp.crs.Temperature,Xmp.crs.Tint,Xmp.crs.ToneCurve,Xmp.crs.ToneCurveBlue,Xmp.crs.ToneCurveGreen,Xmp.crs.ToneCurveName,Xmp.crs.ToneCurveName2012,Xmp.crs.ToneCurvePV2012,Xmp.crs.ToneCurvePV2012Blue,Xmp.crs.ToneCurvePV2012Green,Xmp.crs.ToneCurvePV2012Red,Xmp.crs.ToneCurveRed,Xmp.crs.Top,Xmp.crs.UprightCenterMode,Xmp.crs.UprightCenterNormX,Xmp.crs.UprightCenterNormY,Xmp.crs.UprightDependentDigest,Xmp.crs.UprightFocalLength35mm,Xmp.crs.UprightFocalMode,Xmp.crs.UprightPreview,Xmp.crs.UprightTransformCount,Xmp.crs.UprightTransform_0,Xmp.crs.UprightTransform_1,Xmp.crs.UprightTransform_2,Xmp.crs.UprightTransform_3,Xmp.crs.UprightTransform_4,Xmp.crs.UprightVersion,Xmp.crs.Version,Xmp.crs.Vibrance,Xmp.crs.VignetteAmount,Xmp.crs.VignetteMidpoint,Xmp.crs.What,Xmp.crs.WhiteBalance,Xmp.crs.Whites2012,Xmp.crs.X,Xmp.crs.Y,Xmp.crs.ZeroX,Xmp.crs.ZeroY,Xmp.dc.contributor,Xmp.dc.coverage,Xmp.dc.creator,Xmp.dc.date,Xmp.dc.description,Xmp.dc.format,Xmp.dc.identifier,Xmp.dc.language,Xmp.dc.publisher,Xmp.dc.relation,Xmp.dc.rights,Xmp.dc.source,Xmp.dc.subject,Xmp.dc.title,Xmp.dc.type,Xmp.digiKam.CaptionsAuthorNames,Xmp.digiKam.CaptionsDateTimeStamps,Xmp.digiKam.ColorLabel,Xmp.digiKam.ImageHistory,Xmp.digiKam.LensCorrectionSettings,Xmp.digiKam.PickLabel,Xmp.digiKam.TagsList,Xmp.dwc.Event,Xmp.dwc.FossilSpecimen,Xmp.dwc.GeologicalContext,Xmp.dwc.HumanObservation,Xmp.dwc.Identification,Xmp.dwc.LivingSpecimen,Xmp.dwc.MachineObservation,Xmp.dwc.MaterialSample,Xmp.dwc.MeasurementOrFact,Xmp.dwc.Occurrence,Xmp.dwc.Organism,Xmp.dwc.PreservedSpecimen,Xmp.dwc.Record,Xmp.dwc.ResourceRelationship,Xmp.dwc.Taxon,Xmp.dwc.acceptedNameUsage,Xmp.dwc.acceptedNameUsageID,Xmp.dwc.associatedMedia,Xmp.dwc.associatedOccurrences,Xmp.dwc.associatedOrganisms,Xmp.dwc.associatedReferences,Xmp.dwc.associatedSequences,Xmp.dwc.associatedTaxa,Xmp.dwc.basisOfRecord,Xmp.dwc.bed,Xmp.dwc.behavior,Xmp.dwc.catalogNumber,Xmp.dwc.class,Xmp.dwc.collectionCode,Xmp.dwc.collectionID,Xmp.dwc.continent,Xmp.dwc.coordinatePrecision,Xmp.dwc.coordinateUncertaintyInMeters,Xmp.dwc.country,Xmp.dwc.countryCode,Xmp.dwc.county,Xmp.dwc.dataGeneralizations,Xmp.dwc.datasetID,Xmp.dwc.datasetName,Xmp.dwc.dateIdentified,Xmp.dwc.day,Xmp.dwc.dctermsLocation,Xmp.dwc.decimalLatitude,Xmp.dwc.decimalLongitude,Xmp.dwc.disposition,Xmp.dwc.dynamicProperties,Xmp.dwc.earliestAgeOrLowestStage,Xmp.dwc.earliestDate,Xmp.dwc.earliestEonOrLowestEonothem,Xmp.dwc.earliestEpochOrLowestSeries,Xmp.dwc.earliestEraOrLowestErathem,Xmp.dwc.earliestPeriodOrLowestSystem,Xmp.dwc.endDayOfYear,Xmp.dwc.establishmentMeans,Xmp.dwc.eventDate,Xmp.dwc.eventID,Xmp.dwc.eventRemarks,Xmp.dwc.eventTime,Xmp.dwc.family,Xmp.dwc.fieldNotes,Xmp.dwc.fieldNumber,Xmp.dwc.footprintSRS,Xmp.dwc.footprintSpatialFit,Xmp.dwc.footprintWKT,Xmp.dwc.formation,Xmp.dwc.genus,Xmp.dwc.geodeticDatum,Xmp.dwc.geologicalContextID,Xmp.dwc.georeferenceProtocol,Xmp.dwc.georeferenceRemarks,Xmp.dwc.georeferenceSources,Xmp.dwc.georeferenceVerificationStatus,Xmp.dwc.georeferencedBy,Xmp.dwc.georeferencedDate,Xmp.dwc.group,Xmp.dwc.habitat,Xmp.dwc.higherClassification,Xmp.dwc.higherGeography,Xmp.dwc.higherGeographyID,Xmp.dwc.highestBiostratigraphicZone,Xmp.dwc.identificationID,Xmp.dwc.identificationQualifier,Xmp.dwc.identificationReferences,Xmp.dwc.identificationRemarks,Xmp.dwc.identificationVerificationStatus,Xmp.dwc.identifiedBy,Xmp.dwc.individualCount,Xmp.dwc.individualID,Xmp.dwc.informationWithheld,Xmp.dwc.infraspecificEpithet,Xmp.dwc.institutionCode,Xmp.dwc.institutionID,Xmp.dwc.island,Xmp.dwc.islandGroup,Xmp.dwc.kingdom,Xmp.dwc.latestAgeOrHighestStage,Xmp.dwc.latestDate,Xmp.dwc.latestEonOrHighestEonothem,Xmp.dwc.latestEpochOrHighestSeries,Xmp.dwc.latestEraOrHighestErathem,Xmp.dwc.latestPeriodOrHighestSystem,Xmp.dwc.lifeStage,Xmp.dwc.lithostratigraphicTerms,Xmp.dwc.locality,Xmp.dwc.locationAccordingTo,Xmp.dwc.locationID,Xmp.dwc.locationRemarks,Xmp.dwc.lowestBiostratigraphicZone,Xmp.dwc.materialSampleID,Xmp.dwc.maximumDepthInMeters,Xmp.dwc.maximumDistanceAboveSurfaceInMeters,Xmp.dwc.maximumElevationInMeters,Xmp.dwc.measurementAccuracy,Xmp.dwc.measurementDeterminedBy,Xmp.dwc.measurementDeterminedDate,Xmp.dwc.measurementID,Xmp.dwc.measurementMethod,Xmp.dwc.measurementRemarks,Xmp.dwc.measurementType,Xmp.dwc.measurementUnit,Xmp.dwc.measurementValue,Xmp.dwc.member,Xmp.dwc.minimumDepthInMeters,Xmp.dwc.minimumDistanceAboveSurfaceInMeters,Xmp.dwc.minimumElevationInMeters,Xmp.dwc.month,Xmp.dwc.municipality,Xmp.dwc.nameAccordingTo,Xmp.dwc.nameAccordingToID,Xmp.dwc.namePublishedIn,Xmp.dwc.namePublishedInID,Xmp.dwc.namePublishedInYear,Xmp.dwc.nomenclaturalCode,Xmp.dwc.nomenclaturalStatus,Xmp.dwc.occurrenceDetails,Xmp.dwc.occurrenceID,Xmp.dwc.occurrenceRemarks,Xmp.dwc.occurrenceStatus,Xmp.dwc.order,Xmp.dwc.organismID,Xmp.dwc.organismName,Xmp.dwc.organismQuantity,Xmp.dwc.organismQuantityType,Xmp.dwc.organismRemarks,Xmp.dwc.organismScope,Xmp.dwc.originalNameUsage,Xmp.dwc.originalNameUsageID,Xmp.dwc.otherCatalogNumbers,Xmp.dwc.ownerInstitutionCode,Xmp.dwc.parentEventID,Xmp.dwc.parentNameUsage,Xmp.dwc.parentNameUsageID,Xmp.dwc.phylum,Xmp.dwc.pointRadiusSpatialFit,Xmp.dwc.preparations,Xmp.dwc.previousIdentifications,Xmp.dwc.recordNumber,Xmp.dwc.recordedBy,Xmp.dwc.relatedResourceID,Xmp.dwc.relationshipAccordingTo,Xmp.dwc.relationshipEstablishedDate,Xmp.dwc.relationshipOfResource,Xmp.dwc.relationshipRemarks,Xmp.dwc.reproductiveCondition,Xmp.dwc.resourceID,Xmp.dwc.resourceRelationshipID,Xmp.dwc.sampleSizeUnit,Xmp.dwc.sampleSizeValue,Xmp.dwc.samplingEffort,Xmp.dwc.samplingProtocol,Xmp.dwc.scientificName,Xmp.dwc.scientificNameAuthorship,Xmp.dwc.scientificNameID,Xmp.dwc.sex,Xmp.dwc.specificEpithet,Xmp.dwc.startDayOfYear,Xmp.dwc.stateProvince,Xmp.dwc.subgenus,Xmp.dwc.taxonConceptID,Xmp.dwc.taxonID,Xmp.dwc.taxonRank,Xmp.dwc.taxonRemarks,Xmp.dwc.taxonomicStatus,Xmp.dwc.typeStatus,Xmp.dwc.verbatimCoordinateSystem,Xmp.dwc.verbatimCoordinates,Xmp.dwc.verbatimDepth,Xmp.dwc.verbatimElevation,Xmp.dwc.verbatimEventDate,Xmp.dwc.verbatimLatitude,Xmp.dwc.verbatimLocality,Xmp.dwc.verbatimLongitude,Xmp.dwc.verbatimSRS,Xmp.dwc.verbatimTaxonRank,Xmp.dwc.vernacularName,Xmp.dwc.waterBody,Xmp.dwc.year,Xmp.exif.ApertureValue,Xmp.exif.BrightnessValue,Xmp.exif.CFAPattern,Xmp.exif.ColorSpace,Xmp.exif.ComponentsConfiguration,Xmp.exif.CompressedBitsPerPixel,Xmp.exif.Contrast,Xmp.exif.CustomRendered,Xmp.exif.DateTimeDigitized,Xmp.exif.DateTimeOriginal,Xmp.exif.DeviceSettingDescription,Xmp.exif.DigitalZoomRatio,Xmp.exif.ExifVersion,Xmp.exif.ExposureBiasValue,Xmp.exif.ExposureIndex,Xmp.exif.ExposureMode,Xmp.exif.ExposureProgram,Xmp.exif.ExposureTime,Xmp.exif.FNumber,Xmp.exif.FileSource,Xmp.exif.Flash,Xmp.exif.FlashEnergy,Xmp.exif.FlashpixVersion,Xmp.exif.FocalLength,Xmp.exif.FocalLengthIn35mmFilm,Xmp.exif.FocalPlaneResolutionUnit,Xmp.exif.FocalPlaneXResolution,Xmp.exif.FocalPlaneYResolution,Xmp.exif.GPSAltitude,Xmp.exif.GPSAltitudeRef,Xmp.exif.GPSAreaInformation,Xmp.exif.GPSDOP,Xmp.exif.GPSDestBearing,Xmp.exif.GPSDestBearingRef,Xmp.exif.GPSDestDistance,Xmp.exif.GPSDestDistanceRef,Xmp.exif.GPSDestLatitude,Xmp.exif.GPSDestLongitude,Xmp.exif.GPSDifferential,Xmp.exif.GPSImgDirection,Xmp.exif.GPSImgDirectionRef,Xmp.exif.GPSLatitude,Xmp.exif.GPSLongitude,Xmp.exif.GPSMapDatum,Xmp.exif.GPSMeasureMode,Xmp.exif.GPSProcessingMethod,Xmp.exif.GPSSatellites,Xmp.exif.GPSSpeed,Xmp.exif.GPSSpeedRef,Xmp.exif.GPSStatus,Xmp.exif.GPSTimeStamp,Xmp.exif.GPSTrack,Xmp.exif.GPSTrackRef,Xmp.exif.GPSVersionID,Xmp.exif.GainControl,Xmp.exif.ISOSpeedRatings,Xmp.exif.ImageUniqueID,Xmp.exif.LightSource,Xmp.exif.MaxApertureValue,Xmp.exif.MeteringMode,Xmp.exif.OECF,Xmp.exif.PixelXDimension,Xmp.exif.PixelYDimension,Xmp.exif.RelatedSoundFile,Xmp.exif.Saturation,Xmp.exif.SceneCaptureType,Xmp.exif.SceneType,Xmp.exif.SensingMethod,Xmp.exif.Sharpness,Xmp.exif.ShutterSpeedValue,Xmp.exif.SpatialFrequencyResponse,Xmp.exif.SpectralSensitivity,Xmp.exif.SubjectArea,Xmp.exif.SubjectDistance,Xmp.exif.SubjectDistanceRange,Xmp.exif.SubjectLocation,Xmp.exif.UserComment,Xmp.exif.WhiteBalance,Xmp.iptc.CiAdrCity,Xmp.iptc.CiAdrCtry,Xmp.iptc.CiAdrExtadr,Xmp.iptc.CiAdrPcode,Xmp.iptc.CiAdrRegion,Xmp.iptc.CiEmailWork,Xmp.iptc.CiTelWork,Xmp.iptc.CiUrlWork,Xmp.iptc.CountryCode,Xmp.iptc.CreatorContactInfo,Xmp.iptc.IntellectualGenre,Xmp.iptc.Location,Xmp.iptc.Scene,Xmp.iptc.SubjectCode,Xmp.iptcExt.AOCopyrightNotice,Xmp.iptcExt.AOCreator,Xmp.iptcExt.AODateCreated,Xmp.iptcExt.AOSource,Xmp.iptcExt.AOSourceInvNo,Xmp.iptcExt.AOTitle,Xmp.iptcExt.AddlModelInfo,Xmp.iptcExt.ArtworkOrObject,Xmp.iptcExt.CVterm,Xmp.iptcExt.City,Xmp.iptcExt.CountryCode,Xmp.iptcExt.CountryName,Xmp.iptcExt.DigImageGUID,Xmp.iptcExt.DigitalSourcefileType,Xmp.iptcExt.Event,Xmp.iptcExt.IptcLastEdited,Xmp.iptcExt.LocationCreated,Xmp.iptcExt.LocationShown,Xmp.iptcExt.MaxAvailHeight,Xmp.iptcExt.MaxAvailWidth,Xmp.iptcExt.ModelAge,Xmp.iptcExt.OrganisationInImageCode,Xmp.iptcExt.OrganisationInImageName,Xmp.iptcExt.PersonInImage,Xmp.iptcExt.ProvinceState,Xmp.iptcExt.RegItemId,Xmp.iptcExt.RegOrgId,Xmp.iptcExt.RegistryId,Xmp.iptcExt.Sublocation,Xmp.iptcExt.WorldRegion,Xmp.mwg-rs.AppliedToDimensions,Xmp.mwg-rs.Area,Xmp.mwg-rs.BarCodeValue,Xmp.mwg-rs.Description,Xmp.mwg-rs.Extensions,Xmp.mwg-rs.FocusUsage,Xmp.mwg-rs.Name,Xmp.mwg-rs.RegionList,Xmp.mwg-rs.Regions,Xmp.mwg-rs.Type,Xmp.pdf.Keywords,Xmp.pdf.PDFVersion,Xmp.pdf.Producer,Xmp.pdf.Trapped,Xmp.photoshop.AncestorID,Xmp.photoshop.AuthorsPosition,Xmp.photoshop.CaptionWriter,Xmp.photoshop.Category,Xmp.photoshop.City,Xmp.photoshop.ColorMode,Xmp.photoshop.Country,Xmp.photoshop.Credit,Xmp.photoshop.DateCreated,Xmp.photoshop.DocumentAncestors,Xmp.photoshop.EmbeddedXMPDigest,Xmp.photoshop.Headline,Xmp.photoshop.History,Xmp.photoshop.ICCProfile,Xmp.photoshop.Instructions,Xmp.photoshop.LayerName,Xmp.photoshop.LayerText,Xmp.photoshop.LegacyIPTCDigest,Xmp.photoshop.SidecarForExtension,Xmp.photoshop.Source,Xmp.photoshop.State,Xmp.photoshop.SupplementalCategories,Xmp.photoshop.TextLayers,Xmp.photoshop.TransmissionReference,Xmp.photoshop.Urgency,Xmp.plus.AdultContentWarning,Xmp.plus.CopyrightOwner,Xmp.plus.CopyrightOwnerID,Xmp.plus.CopyrightOwnerImageID,Xmp.plus.CopyrightOwnerName,Xmp.plus.CopyrightRegistrationNumber,Xmp.plus.CopyrightStatus,Xmp.plus.CreditLineRequired,Xmp.plus.Custom1,Xmp.plus.Custom10,Xmp.plus.Custom2,Xmp.plus.Custom3,Xmp.plus.Custom4,Xmp.plus.Custom5,Xmp.plus.Custom6,Xmp.plus.Custom7,Xmp.plus.Custom8,Xmp.plus.Custom9,Xmp.plus.EndUser,Xmp.plus.EndUserID,Xmp.plus.EndUserName,Xmp.plus.FileNameAsDelivered,Xmp.plus.FirstPublicationDate,Xmp.plus.ImageAlterationConstraints,Xmp.plus.ImageCreator,Xmp.plus.ImageCreatorID,Xmp.plus.ImageCreatorImageID,Xmp.plus.ImageCreatorName,Xmp.plus.ImageDuplicationConstraints,Xmp.plus.ImageFileConstraints,Xmp.plus.ImageFileFormatAsDelivered,Xmp.plus.ImageFileSizeAsDelivered,Xmp.plus.ImageSupplierID,Xmp.plus.ImageSupplierImageID,Xmp.plus.ImageSupplierName,Xmp.plus.ImageType,Xmp.plus.LicenseEndDate,Xmp.plus.LicenseID,Xmp.plus.LicenseStartDate,Xmp.plus.LicenseTransactionDate,Xmp.plus.Licensee,Xmp.plus.LicenseeID,Xmp.plus.LicenseeImageID,Xmp.plus.LicenseeImageNotes,Xmp.plus.LicenseeName,Xmp.plus.LicenseeProjectReference,Xmp.plus.LicenseeTransactionID,Xmp.plus.Licensor,Xmp.plus.LicensorCity,Xmp.plus.LicensorCountry,Xmp.plus.LicensorEmail,Xmp.plus.LicensorExtendedAddress,Xmp.plus.LicensorID,Xmp.plus.LicensorImageID,Xmp.plus.LicensorName,Xmp.plus.LicensorNotes,Xmp.plus.LicensorPostalCode,Xmp.plus.LicensorRegion,Xmp.plus.LicensorStreetAddress,Xmp.plus.LicensorTelephone1,Xmp.plus.LicensorTelephone2,Xmp.plus.LicensorTelephoneType1,Xmp.plus.LicensorTelephoneType2,Xmp.plus.LicensorTransactionID,Xmp.plus.LicensorURL,Xmp.plus.MediaConstraints,Xmp.plus.MediaSummaryCode,Xmp.plus.MinorModelAgeDisclosure,Xmp.plus.ModelReleaseID,Xmp.plus.ModelReleaseStatus,Xmp.plus.OtherConditions,Xmp.plus.OtherConstraints,Xmp.plus.OtherImageInfo,Xmp.plus.OtherLicenseDocuments,Xmp.plus.OtherLicenseInfo,Xmp.plus.OtherLicenseRequirements,Xmp.plus.ProductOrServiceConstraints,Xmp.plus.PropertyReleaseID,Xmp.plus.PropertyReleaseStatus,Xmp.plus.RegionConstraints,Xmp.plus.Reuse,Xmp.plus.TermsAndConditionsText,Xmp.plus.TermsAndConditionsURL,Xmp.plus.Version,Xmp.tiff.Artist,Xmp.tiff.BitsPerSample,Xmp.tiff.Compression,Xmp.tiff.Copyright,Xmp.tiff.DateTime,Xmp.tiff.ImageDescription,Xmp.tiff.ImageLength,Xmp.tiff.ImageWidth,Xmp.tiff.Make,Xmp.tiff.Model,Xmp.tiff.Orientation,Xmp.tiff.PhotometricInterpretation,Xmp.tiff.PlanarConfiguration,Xmp.tiff.PrimaryChromaticities,Xmp.tiff.ReferenceBlackWhite,Xmp.tiff.ResolutionUnit,Xmp.tiff.SamplesPerPixel,Xmp.tiff.Software,Xmp.tiff.TransferFunction,Xmp.tiff.WhitePoint,Xmp.tiff.XResolution,Xmp.tiff.YCbCrCoefficients,Xmp.tiff.YCbCrPositioning,Xmp.tiff.YCbCrSubSampling,Xmp.tiff.YResolution,Xmp.xmp.Advisory,Xmp.xmp.BaseURL,Xmp.xmp.CreateDate,Xmp.xmp.CreatorTool,Xmp.xmp.Identifier,Xmp.xmp.Label,Xmp.xmp.MetadataDate,Xmp.xmp.ModifyDate,Xmp.xmp.Nickname,Xmp.xmp.Rating,Xmp.xmp.Thumbnails,Xmp.xmpBJ.JobRef,Xmp.xmpDM.absPeakAudioFilePath,Xmp.xmpDM.album,Xmp.xmpDM.altTapeName,Xmp.xmpDM.altTimecode,Xmp.xmpDM.artist,Xmp.xmpDM.audioChannelType,Xmp.xmpDM.audioCompressor,Xmp.xmpDM.audioModDate,Xmp.xmpDM.audioSampleRate,Xmp.xmpDM.audioSampleType,Xmp.xmpDM.beatSpliceParams,Xmp.xmpDM.cameraAngle,Xmp.xmpDM.cameraLabel,Xmp.xmpDM.cameraModel,Xmp.xmpDM.cameraMove,Xmp.xmpDM.client,Xmp.xmpDM.comment,Xmp.xmpDM.composer,Xmp.xmpDM.contributedMedia,Xmp.xmpDM.copyright,Xmp.xmpDM.director,Xmp.xmpDM.directorPhotography,Xmp.xmpDM.discNumber,Xmp.xmpDM.duration,Xmp.xmpDM.engineer,Xmp.xmpDM.fileDataRate,Xmp.xmpDM.genre,Xmp.xmpDM.good,Xmp.xmpDM.instrument,Xmp.xmpDM.introTime,Xmp.xmpDM.key,Xmp.xmpDM.logComment,Xmp.xmpDM.loop,Xmp.xmpDM.lyrics,Xmp.xmpDM.markers,Xmp.xmpDM.metadataModDate,Xmp.xmpDM.numberOfBeats,Xmp.xmpDM.outCue,Xmp.xmpDM.partOfCompilation,Xmp.xmpDM.projectName,Xmp.xmpDM.projectRef,Xmp.xmpDM.pullDown,Xmp.xmpDM.relativePeakAudioFilePath,Xmp.xmpDM.relativeTimestamp,Xmp.xmpDM.releaseDate,Xmp.xmpDM.resampleParams,Xmp.xmpDM.scaleType,Xmp.xmpDM.scene,Xmp.xmpDM.shotDate,Xmp.xmpDM.shotDay,Xmp.xmpDM.shotLocation,Xmp.xmpDM.shotName,Xmp.xmpDM.shotNumber,Xmp.xmpDM.shotSize,Xmp.xmpDM.speakerPlacement,Xmp.xmpDM.startTimecode,Xmp.xmpDM.stretchMode,Xmp.xmpDM.takeNumber,Xmp.xmpDM.tapeName,Xmp.xmpDM.tempo,Xmp.xmpDM.timeScaleParams,Xmp.xmpDM.timeSignature,Xmp.xmpDM.trackNumber,Xmp.xmpDM.tracks,Xmp.xmpDM.videoAlphaMode,Xmp.xmpDM.videoAlphaPremultipleColor,Xmp.xmpDM.videoAlphaUnityIsTransparent,Xmp.xmpDM.videoColorSpace,Xmp.xmpDM.videoCompressor,Xmp.xmpDM.videoFieldOrder,Xmp.xmpDM.videoFrameRate,Xmp.xmpDM.videoFrameSize,Xmp.xmpDM.videoModDate,Xmp.xmpDM.videoPixelAspectRatio,Xmp.xmpDM.videoPixelDepth,Xmp.xmpMM.DerivedFrom,Xmp.xmpMM.DocumentID,Xmp.xmpMM.History,Xmp.xmpMM.Ingredients,Xmp.xmpMM.InstanceID,Xmp.xmpMM.LastURL,Xmp.xmpMM.ManageTo,Xmp.xmpMM.ManageUI,Xmp.xmpMM.ManagedFrom,Xmp.xmpMM.Manager,Xmp.xmpMM.ManagerVariant,Xmp.xmpMM.OriginalDocumentID,Xmp.xmpMM.Pantry,Xmp.xmpMM.RenditionClass,Xmp.xmpMM.RenditionOf,Xmp.xmpMM.RenditionParams,Xmp.xmpMM.SaveID,Xmp.xmpMM.VersionID,Xmp.xmpMM.Versions,Xmp.xmpRights.Certificate,Xmp.xmpRights.Marked,Xmp.xmpRights.Owner,Xmp.xmpRights.UsageTerms,Xmp.xmpRights.WebStatement,Xmp.xmpTPg.Colorants,Xmp.xmpTPg.Fonts,Xmp.xmpTPg.MaxPageSize,Xmp.xmpTPg.NPages,Xmp.xmpTPg.PlateNames
+
+[Image Quality Settings]
+Accepted Threshold=60
+Blur Weight=100
+Compression Weight=100
+Detect Blur=true
+Detect Compression=true
+Detect Exposure=true
+Detect Noise=true
+Detect Overexposure=true
+Enable Sorter=false
+HighQ Accepted=false
+LowQ Rejected=false
+MediumQ Pending=false
+Noise Weight=100
+Pending Threshold=40
+Rejected Threshold=10
+Speed=1
+
+[ImageViewer Settings]
+AutoBrightness=true
+AutoZoom=false
+BackgroundColor=0,0,0
+Black Point=0
+Brightness Multiplier=1
+Custom White Balance=6500
+Custom White Balance Green=1
+Dcb Enhance Filter=false
+Dcb Iterations=-1
+Decoding Quality=0
+Dont Stretch Pixels=false
+Eeci Refine=false
+EnableCACorrection=false
+Es Median Filter Passes=0
+Expo Correction=false
+Expo Correction Highlight=0
+Expo Correction Shift=0.9939999999999998
+ExpoIndicatorMode=true
+FixColorsHighlights=false
+Four Color RGB=false
+FullScreen Hide SideBars=false
+FullScreen Hide StatusBar=false
+FullScreen Hide ThumbBar=true
+FullScreen Hide ToolBars=false
+HEIFCompression=9
+HEIFLossLess=true
+Height 1050=480
+JPEG2000Compression=75
+JPEG2000LossLess=true
+JPEGCompression=75
+JPEGSubSampling=1
+Median Filter Passes=0
+MenuBar=Disabled
+Noise Reduction Chrominance Threshold=0
+Noise Reduction Threshold=0
+Noise Reduction Type=0
+Output Color Space=1
+OverExposureColor=0,0,0
+OverExposureIndicator=false
+OverExposurePercentsEntry=1
+PGFCompression=3
+PGFLossLess=true
+PNGCompression=9
+PreviewMode=128
+RawImportToolIid=org.kde.digikam.plugin.rawimport.Native
+RestoreToolSettings=true
+Show Thumbbar=false
+ShowImageSettingsDialog=true
+SixteenBitsImage=false
+SlideScreen=-2
+SlideShowCaptionFont=Sans Serif,9,-1,5,50,0,0,0,0,0
+SlideShowDelay=5
+SlideShowLoop=false
+SlideShowPrintApertureFocal=false
+SlideShowPrintCapIfNoTitle=false
+SlideShowPrintComment=false
+SlideShowPrintDate=false
+SlideShowPrintExpoSensitivity=false
+SlideShowPrintLabels=false
+SlideShowPrintMakeModel=false
+SlideShowPrintName=true
+SlideShowPrintRating=false
+SlideShowPrintTags=false
+SlideShowPrintTitle=false
+SlideShowProgressIndicator=true
+SlideShowStartCurrent=false
+SplitterState=AAAA/wAAAAEAAAACAAAFSAAAAS4B/////wAAAAABAQ==
+State=AAAA/wAAAAD9AAAAAAAAAAAAAAAAAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+TIFFCompression=false
+ToolBarsMovable=Disabled
+Unclip Color=0
+UnderExposureColor=255,255,255
+UnderExposureIndicator=false
+UnderExposurePercentsEntry=1
+Use Black Point=false
+Use White Point=false
+UseRawImportTool=false
+UseThemeBackgroundColor=true
+White Balance=1
+White Point=0
+Width 1680=845
+Window-Maximized 1050x1680=true
+caBlueMultiplier=0
+caRedMultiplier=0
+corrections Expanded=false
+demosaicing Expanded=true
+whitebalance Expanded=true
+
+[ImageViewer Settings][Right Sidebar]
+ActiveTab=6
+DigikamProperties Expanded=true
+FileProperties Expanded=true
+ItemProperties Expanded=true
+Minimized=false
+PhotographProperties Expanded=true
+RestoreSize=-1
+VideoProperties Expanded=true
+
+[ImageViewer Settings][Right Sidebar][Captions Tags Properties Tab]
+Contact Expanded=true
+ImageDescEdit Tab=0
+ImageDescEditTab CaptionsLang=
+ImageDescEditTab SearchBarCaseSensitive=0
+ImageDescEditTab TagCheckViewCurrentIndex=
+ImageDescEditTab TagCheckViewExpansion=0
+ImageDescEditTab TagCheckViewRestoreChecked=false
+ImageDescEditTab TagCheckViewSelection=
+ImageDescEditTab TagCheckViewSortColumn=0
+ImageDescEditTab TagCheckViewSortOrder=0
+ImageDescEditTab TagCheckViewToggle Auto Tags=0
+ImageDescEditTab TitleLang=
+ItemDescEdit Tab=0
+ItemDescEditTab CaptionsLang=
+ItemDescEditTab SearchBarCaseSensitive=0
+ItemDescEditTab TagCheckViewCurrentIndex=
+ItemDescEditTab TagCheckViewExpansion=0
+ItemDescEditTab TagCheckViewRestoreChecked=false
+ItemDescEditTab TagCheckViewSelection=
+ItemDescEditTab TagCheckViewSortColumn=0
+ItemDescEditTab TagCheckViewSortOrder=0
+ItemDescEditTab TagCheckViewToggle Auto Tags=0
+ItemDescEditTab TitleLang=
+Location Expanded=true
+Rights Expanded=true
+Subjects Expanded=true
+
+[ImageViewer Settings][Right Sidebar][Color Properties Tab]
+Current ICC Item=
+Histogram Channel=0
+Histogram Scale=1
+ICC Level=2
+ImagePropertiesColors Tab=0
+
+[ImageViewer Settings][Right Sidebar][GPS Properties Tab]
+Sort Order=0
+Web GPS Locator=0
+
+[ImageViewer Settings][Right Sidebar][GPS Properties Tab][Map Widget]
+Backend=marble
+Center=geo:52,6
+GoogleMaps Map Type=ROADMAP
+GoogleMaps Show Map Type Control=true
+GoogleMaps Show Navigation Control=true
+GoogleMaps Show Scale Control=true
+Marble Map Theme=atlas
+Marble Projection=spherical
+Marble Show Compass=false
+Marble Show Navigation=false
+Marble Show Overview Map=false
+Marble Show Scale Bar=false
+Marker Grouping Radius=1
+Mouse Mode=0
+Preview Grouped Items=true
+Preview Single Items=true
+Show Thumbnails=true
+Show numbers on items=true
+Sticky Mode State=false
+Thumbnail Grouping Radius=30
+Thumbnail Size=60
+Zoom=marble:900
+
+[ImageViewer Settings][Right Sidebar][Metadata Properties Tab]
+Current EXIF Item=
+Current IPTC Item=
+Current MAKERNOTE Item=
+Current XMP Item=
+EXIF Level=2
+IPTC Level=2
+ImagePropertiesMetaData Tab=0
+MAKERNOTE Level=2
+XMP Level=2
+
+[ImageViewer Settings][Right Sidebar][Version Properties Tab]
+Version Properties Tab=versions
+Version Properties View Mode=2
+
+[ImageViewer Thumbbar]
+Height 1050=988
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAEAAAABhPwCAAAAAfsAAAAeAGUAZABpAHQAbwByAF8AdABoAHUAbQBiAGIAYQByAAAAAAAAAAGEAAAAVwD///8AAAJnAAABhAAAAAQAAAAEAAAACAAAAAj8AAAAAA==
+ToolBarsMovable=Disabled
+Width 1680=1350
+
+[Import Filters]
+Filter0=All Files|false|||
+Filter1=Only New Files|true|||
+Filter2=Raw Files|false|||image/x-nikon-nef;image/x-fuji-raf;image/x-adobe-dng;image/x-panasonic-raw;image/x-olympus-orf;image/x-kodak-dcr;image/x-kodak-k25;image/x-sony-arw;image/x-minolta-mrw;image/x-kodak-kdc;image/x-sigma-x3f;image/x-sony-srf;image/x-pentax-pef;image/x-panasonic-raw2;image/x-canon-crw;image/x-sony-sr2;image/x-canon-cr2
+Filter3=JPG/TIFF Files|false|||image/jpeg;image/tiff
+Filter4=Video Files|false|||video/quicktime;video/mp4;video/x-msvideo;video/mpeg
+IgnoreExtensions=dsp dps
+IgnoreNames=mgr_data pgr_mgr
+
+[Import Settings]
+Default Icon Size=142
+Icon Show Coordinates=false
+Icon Show Date=true
+Icon Show Image Format=false
+Icon Show Name=true
+Icon Show Overlays=true
+Icon Show Rating=true
+Icon Show Size=false
+Icon Show Tags=true
+Icon Show Title=true
+IconView Font=Sans,10,-1,5,50,0,0,0,0,0
+Image Separation Mode=1
+Image Sort Order=0
+Image Sorting=0
+Item Left Click Action=0
+Preview Each Item While Downloading it=false
+Preview Load Full Image Size=false
+Preview Show Icons=true
+Show Thumbbar=true
+Show ToolTips=false
+ToolTips Font=Sans,10,-1,5,50,0,0,0,0,0
+ToolTips Show File Date=false
+ToolTips Show File Name=true
+ToolTips Show File Size=false
+ToolTips Show Folder Name=false
+ToolTips Show Image Dim=true
+ToolTips Show Image Type=false
+ToolTips Show Label Rating=true
+ToolTips Show Photo Expo=true
+ToolTips Show Photo Flash=false
+ToolTips Show Photo Focal=true
+ToolTips Show Photo Lens=true
+ToolTips Show Photo Make=true
+ToolTips Show Photo WB=false
+ToolTips Show Tags=true
+
+[ItemIconViewFaceTagFilterSearchBar Search Text Tool]
+CaseSensitive=0
+
+[ItemIconViewFaceTagFilterView]
+CurrentIndex=
+Expansion=
+RestoreChecked=false
+Selection=
+SortColumn=0
+SortOrder=0
+Toggle Auto Tags=0
+
+[ItemIconViewFolderSearchBar Search Text Tool]
+CaseSensitive=0
+
+[ItemIconViewPeopleSearchBar Search Text Tool]
+CaseSensitive=0
+
+[ItemIconViewSearchSearchBar Search Text Tool]
+CaseSensitive=0
+
+[ItemIconViewTagFilterSearchBar Search Text Tool]
+CaseSensitive=0
+
+[ItemIconViewTagFilterView]
+CurrentIndex=104
+Expansion=48
+RestoreChecked=false
+Selection=104
+SortColumn=0
+SortOrder=0
+Toggle Auto Tags=0
+
+[ItemIconViewTagSearchBar Search Text Tool]
+CaseSensitive=0
+
+[KMLExport Settings]
+Altitude Mode=0
+GPX Altitude Mode=0
+GPXFile=
+KMLFileName=kmldocument
+Line Width=4
+Time Zone=12
+Track Color=#17eeee
+Track Opacity=64
+UrlDestDir=http://www.example.com/
+UseGPXTracks=false
+baseDestDir=/tmp/
+iconSize=33
+localTarget=true
+optimize_googlemap=false
+size=320
+
+[Labels Sidebar]
+ColorSelection=
+Expansion=
+PickSelection=
+RatingSelection=
+
+[Lens Auto-Correction Tool]
+Aperture=1.1
+CameraMake=Generic
+CameraModel=Crop-factor 1.0 (Full Frame)
+CropFactor=1
+FocalLength=1
+LensModel=Fisheye 8-20mm f/1.0
+Show Grid=false
+SubjectDistance=1000
+UseMetadata=true
+
+[LightTable Settings]
+Auto Load Right Panel=true
+Auto Sync Preview=true
+Clear On Close=false
+FullScreen Hide SideBars=false
+FullScreen Hide StatusBar=false
+FullScreen Hide ToolBars=false
+Height 1050=988
+Horizontal Splitter State=AAAA/wAAAAEAAAADAAABLgAACqoAAAEuAf////8AAAAAAQE=
+Navigate By Pair=false
+Show Thumbbar=true
+State=AAAA/wAAAAD9AAAAAAAABpAAAAODAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1680=1680
+
+[LightTable Settings][Left Sidebar]
+ActiveTab=0
+DigikamProperties Expanded=true
+FileProperties Expanded=true
+ItemProperties Expanded=true
+Minimized=true
+PhotographProperties Expanded=true
+RestoreSize=31
+VideoProperties Expanded=true
+
+[LightTable Settings][Left Sidebar][Captions Tags Properties Tab]
+Contact Expanded=true
+ImageDescEdit Tab=0
+ImageDescEditTab CaptionsLang=
+ImageDescEditTab SearchBarCaseSensitive=0
+ImageDescEditTab TagCheckViewCurrentIndex=
+ImageDescEditTab TagCheckViewExpansion=0
+ImageDescEditTab TagCheckViewRestoreChecked=false
+ImageDescEditTab TagCheckViewSelection=
+ImageDescEditTab TagCheckViewSortColumn=0
+ImageDescEditTab TagCheckViewSortOrder=0
+ImageDescEditTab TagCheckViewToggle Auto Tags=0
+ImageDescEditTab TitleLang=
+ItemDescEdit Tab=0
+ItemDescEditTab CaptionsLang=
+ItemDescEditTab SearchBarCaseSensitive=0
+ItemDescEditTab TagCheckViewCurrentIndex=
+ItemDescEditTab TagCheckViewExpansion=0
+ItemDescEditTab TagCheckViewRestoreChecked=false
+ItemDescEditTab TagCheckViewSelection=
+ItemDescEditTab TagCheckViewSortColumn=0
+ItemDescEditTab TagCheckViewSortOrder=0
+ItemDescEditTab TagCheckViewToggle Auto Tags=0
+ItemDescEditTab TitleLang=
+Location Expanded=true
+Rights Expanded=true
+Subjects Expanded=true
+
+[LightTable Settings][Left Sidebar][Color Properties Tab]
+Current ICC Item=
+Histogram Channel=0
+Histogram Scale=1
+ICC Level=2
+ImagePropertiesColors Tab=0
+
+[LightTable Settings][Left Sidebar][GPS Properties Tab]
+Sort Order=0
+Web GPS Locator=0
+
+[LightTable Settings][Left Sidebar][GPS Properties Tab][Map Widget]
+Backend=marble
+Center=geo:52,6
+GoogleMaps Map Type=ROADMAP
+GoogleMaps Show Map Type Control=true
+GoogleMaps Show Navigation Control=true
+GoogleMaps Show Scale Control=true
+Marble Map Theme=atlas
+Marble Projection=spherical
+Marble Show Compass=false
+Marble Show Navigation=false
+Marble Show Overview Map=false
+Marble Show Scale Bar=false
+Marker Grouping Radius=1
+Mouse Mode=0
+Preview Grouped Items=true
+Preview Single Items=true
+Show Thumbnails=true
+Show numbers on items=true
+Sticky Mode State=false
+Thumbnail Grouping Radius=30
+Thumbnail Size=60
+Zoom=marble:900
+
+[LightTable Settings][Left Sidebar][Metadata Properties Tab]
+Current EXIF Item=
+Current IPTC Item=
+Current MAKERNOTE Item=
+Current XMP Item=
+EXIF Level=2
+IPTC Level=2
+ImagePropertiesMetaData Tab=0
+MAKERNOTE Level=2
+XMP Level=2
+
+[LightTable Settings][Left Sidebar][Version Properties Tab]
+Version Properties Tab=versions
+Version Properties View Mode=2
+
+[LightTable Settings][Right Sidebar]
+ActiveTab=0
+DigikamProperties Expanded=true
+FileProperties Expanded=true
+ItemProperties Expanded=true
+Minimized=true
+PhotographProperties Expanded=true
+RestoreSize=30
+VideoProperties Expanded=true
+
+[LightTable Settings][Right Sidebar][Captions Tags Properties Tab]
+Contact Expanded=true
+ImageDescEdit Tab=0
+ImageDescEditTab CaptionsLang=
+ImageDescEditTab SearchBarCaseSensitive=0
+ImageDescEditTab TagCheckViewCurrentIndex=
+ImageDescEditTab TagCheckViewExpansion=0
+ImageDescEditTab TagCheckViewRestoreChecked=false
+ImageDescEditTab TagCheckViewSelection=
+ImageDescEditTab TagCheckViewSortColumn=0
+ImageDescEditTab TagCheckViewSortOrder=0
+ImageDescEditTab TagCheckViewToggle Auto Tags=0
+ImageDescEditTab TitleLang=
+ItemDescEdit Tab=0
+ItemDescEditTab CaptionsLang=
+ItemDescEditTab SearchBarCaseSensitive=0
+ItemDescEditTab TagCheckViewCurrentIndex=
+ItemDescEditTab TagCheckViewExpansion=0
+ItemDescEditTab TagCheckViewRestoreChecked=false
+ItemDescEditTab TagCheckViewSelection=
+ItemDescEditTab TagCheckViewSortColumn=0
+ItemDescEditTab TagCheckViewSortOrder=0
+ItemDescEditTab TagCheckViewToggle Auto Tags=0
+ItemDescEditTab TitleLang=
+Location Expanded=true
+Rights Expanded=true
+Subjects Expanded=true
+
+[LightTable Settings][Right Sidebar][Color Properties Tab]
+Current ICC Item=
+Histogram Channel=0
+Histogram Scale=1
+ICC Level=2
+ImagePropertiesColors Tab=0
+
+[LightTable Settings][Right Sidebar][GPS Properties Tab]
+Sort Order=0
+Web GPS Locator=0
+
+[LightTable Settings][Right Sidebar][GPS Properties Tab][Map Widget]
+Backend=marble
+Center=geo:52,6
+GoogleMaps Map Type=ROADMAP
+GoogleMaps Show Map Type Control=true
+GoogleMaps Show Navigation Control=true
+GoogleMaps Show Scale Control=true
+Marble Map Theme=atlas
+Marble Projection=spherical
+Marble Show Compass=false
+Marble Show Navigation=false
+Marble Show Overview Map=false
+Marble Show Scale Bar=false
+Marker Grouping Radius=1
+Mouse Mode=0
+Preview Grouped Items=true
+Preview Single Items=true
+Show Thumbnails=true
+Show numbers on items=true
+Sticky Mode State=false
+Thumbnail Grouping Radius=30
+Thumbnail Size=60
+Zoom=marble:900
+
+[LightTable Settings][Right Sidebar][Metadata Properties Tab]
+Current EXIF Item=
+Current IPTC Item=
+Current MAKERNOTE Item=
+Current XMP Item=
+EXIF Level=2
+IPTC Level=2
+ImagePropertiesMetaData Tab=0
+MAKERNOTE Level=2
+XMP Level=2
+
+[LightTable Settings][Right Sidebar][Version Properties Tab]
+Version Properties Tab=versions
+Version Properties View Mode=2
+
+[LightTable Thumbbar]
+Height 1050=899
+State=AAAA/wAAAAD9AAAAAQAAAAIAAAZgAAABBvwBAAAAAfsAAAAmAGwAaQBnAGgAdAB0AGEAYgBsAGUAXwB0AGgAdQBtAGIAYgBhAHIAAAAAAAAABmAAAABXAP///wAABmAAAAJ3AAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled
+Width 1680=1632
+
+[MainWindow]
+InitialAlbumID=2324
+SplitterState=AAAA/wAAAAEAAAADAAABagAAA2oAAAF+Af////8AAAAAAQE=
+ThumbbarState=AAAA/wAAAAD9AAAAAQAAAAIAAANqAAABIPwBAAAAAfsAAAAmAG0AYQBpAG4AdwBpAG4AZABvAHcAXwB0AGgAdQBtAGIAYgBhAHIAAAAAAAAAA2oAAABXAP///wAAA2oAAAOEAAAABAAAAAQAAAAIAAAACPwAAAAA
+
+[Metadata Edit Dialog]
+Height 1050=617
+Tab Index=0
+Width 1680=892
+
+[Metadata Settings]
+Clear Metadata If Rescan=true
+Custom Sidecar Extensions=
+EXIF Rotate=true
+EXIF Set Orientation=true
+Metadata Writing Mode=0
+Rescan File If Modified=true
+Rotate By Internal Flag=true
+Rotate By Metadata Flag=true
+Rotate Contents Lossless=true
+Rotate Contents Lossy=false
+Save Color Label=true
+Save Date Time=true
+Save EXIF Comments=true
+Save FaceTags=true
+Save Pick Label=true
+Save Rating=true
+Save Tags=true
+Save Template=true
+Update File Timestamp=true
+Use Compatible File Name=false
+Use Lazy Synchronization=false
+Use XMP Sidecar For Reading=false
+Write Metadata To RAW Files=true
+Write RAW Files=false
+
+[MetadataSelectorView Search Text Tool]
+CaseSensitive=0
+
+[Open-with settings]
+CompletionMode=1
+History=exiv2 -pa ,exiv2 -pa,exiftool,echo test,echo convert -evaluate-sequence median
+
+[People Sidebar]
+CurrentIndex=34
+Expansion=30,94,43,41,80,55,85,35,48,59,50,67,64,68,116,40,34,38,32,31
+RestoreChecked=false
+Selection=34
+SortColumn=0
+SortOrder=0
+
+[Piwigo Settings]
+Password=//stop his cotton tears /
+URL=http://piwigo.hab
+Username=roleo
+
+[PiwigoSync Dialog]
+Height 1050=750
+Width 1680=800
+
+[PiwigoSync Galleries]
+Maximum Height=1600
+Maximum Width=1600
+Quality=95
+Resize=false
+
+[PluginsSearchBar Search Text Tool]
+CaseSensitive=0
+
+[PrintCreator]
+CaptionColor=255,255,0
+CaptionFont=Sans Serif,12,-1,5,50,0,0,0,0,0
+CaptionSize=4
+CaptionType=0
+ConflictRule=0
+CustomCaption=
+ImageFormat=0
+OpenInFileBrowser=true
+OutputPath=file:///home/roleo/Documents
+PhotoSize=
+Printer=Print to PDF
+SelMode=0
+
+[PrintCreator Settings]
+gimpBinary[$e]=
+
+[PrintCreatorDialog]
+Height 1050=750
+Width 1680=800
+
+[Profile Conversion Tool]
+Profile[$e]=/tmp/.mount_digika6kxxx3/usr/share/digikam/profiles/srgb-d65.icm
+Recently Used Profiles[$e]=/tmp/.mount_digika6kxxx3/usr/share/digikam/profiles/srgb-d65.icm
+
+[Search Sidebar]
+CurrentIndex=3
+Expansion=
+RestoreChecked=false
+Selection=3
+SortColumn=0
+SortOrder=0
+
+[SearchBar Search Text Tool]
+CaseSensitive=0
+
+[Setup Dialog]
+Height 1050=797
+Setup Page=12
+Template Tab=0
+Width 1680=942
+
+[Sketch Search View]
+AlbumComboBox-Checked=
+AlbumComboBox-CurrentIndex=
+AlbumComboBox-Expansion=1
+AlbumComboBox-RestoreChecked=true
+AlbumComboBox-Selection=
+AlbumComboBox-SortColumn=0
+AlbumComboBox-SortOrder=0
+UseWholeAlbumsEntry=true
+
+[TagEditDlgTitleEdit Search Text Tool]
+CaseSensitive=0
+
+[TagFilter Sidebar]
+FaceTagsFilter Expanded=true
+LabelsFilter Expanded=true
+Matching Condition=0
+Search Text Filter Fields=127
+Show Untagged=false
+Show Without Face=false
+TagsFilter Expanded=true
+TextFilter Expanded=true
+TypeGeolocationFilter Expanded=true
+TypeMimeFilter Expanded=true
+
+[TagView Sidebar]
+CurrentIndex=130
+Expansion=0,104,130,123
+RestoreChecked=false
+Selection=130
+SortColumn=0
+SortOrder=0
+TagsSource=false
+
+[Tags Manager]
+CurrentIndex=91
+Expansion=0,91
+RestoreChecked=false
+Selection=91
+SortColumn=0
+SortOrder=0
+
+[TimeLine Sidebar]
+CurrentIndex=
+Cursor Position=2020,6,1,0,0,0
+Expansion=
+Histogram Scale=0
+Histogram TimeUnit=2
+RestoreChecked=false
+Selection=
+SortColumn=0
+SortOrder=0
+
+[TimeLineViewSearchDateBar Search Text Tool]
+CaseSensitive=0
+
+[Versioning Settings]
+Auto-Save When Closing Editor=false
+Non-Destructive Editing Enabled=false
+Save Intermediate After Each Session=false
+Save Intermediate After Raw Conversion=false
+Save Intermediate When Not Reproducible=false
+Saving Format for Versions=JPG
+Show Intermediates in View=false
+Show Original in View=false
+
+[WebBrowserDlgSearchBar Search Text Tool]
+CaseSensitive=0
+
+[adjustcurves Tool]
+AdjustCurvesChannel0Point0=0,0
+AdjustCurvesChannel0Point1=-1,-1
+AdjustCurvesChannel0Point10=-1,-1
+AdjustCurvesChannel0Point11=-1,-1
+AdjustCurvesChannel0Point12=-1,-1
+AdjustCurvesChannel0Point13=-1,-1
+AdjustCurvesChannel0Point14=-1,-1
+AdjustCurvesChannel0Point15=-1,-1
+AdjustCurvesChannel0Point16=65025,65025
+AdjustCurvesChannel0Point17=-1,-1
+AdjustCurvesChannel0Point2=-1,-1
+AdjustCurvesChannel0Point3=-1,-1
+AdjustCurvesChannel0Point4=-1,-1
+AdjustCurvesChannel0Point5=-1,-1
+AdjustCurvesChannel0Point6=-1,-1
+AdjustCurvesChannel0Point7=-1,-1
+AdjustCurvesChannel0Point8=-1,-1
+AdjustCurvesChannel0Point9=-1,-1
+AdjustCurvesChannel0Type=0
+AdjustCurvesChannel1Point0=0,0
+AdjustCurvesChannel1Point1=-1,-1
+AdjustCurvesChannel1Point10=41055,5610
+AdjustCurvesChannel1Point11=46410,15300
+AdjustCurvesChannel1Point12=-255,7905
+AdjustCurvesChannel1Point13=-255,40800
+AdjustCurvesChannel1Point14=-1,-1
+AdjustCurvesChannel1Point15=-1,-1
+AdjustCurvesChannel1Point16=65025,65025
+AdjustCurvesChannel1Point17=-1,-1
+AdjustCurvesChannel1Point2=-1,-1
+AdjustCurvesChannel1Point3=-1,-1
+AdjustCurvesChannel1Point4=17850,19890
+AdjustCurvesChannel1Point5=-255,18360
+AdjustCurvesChannel1Point6=23205,4845
+AdjustCurvesChannel1Point7=27540,13260
+AdjustCurvesChannel1Point8=-255,11730
+AdjustCurvesChannel1Point9=35190,2805
+AdjustCurvesChannel1Type=0
+AdjustCurvesChannel2Point0=0,0
+AdjustCurvesChannel2Point1=-1,-1
+AdjustCurvesChannel2Point10=-1,-1
+AdjustCurvesChannel2Point11=-1,-1
+AdjustCurvesChannel2Point12=-1,-1
+AdjustCurvesChannel2Point13=-1,-1
+AdjustCurvesChannel2Point14=-1,-1
+AdjustCurvesChannel2Point15=-1,-1
+AdjustCurvesChannel2Point16=65025,65025
+AdjustCurvesChannel2Point17=-1,-1
+AdjustCurvesChannel2Point2=-1,-1
+AdjustCurvesChannel2Point3=-1,-1
+AdjustCurvesChannel2Point4=-1,-1
+AdjustCurvesChannel2Point5=-1,-1
+AdjustCurvesChannel2Point6=-1,-1
+AdjustCurvesChannel2Point7=-1,-1
+AdjustCurvesChannel2Point8=-1,-1
+AdjustCurvesChannel2Point9=-1,-1
+AdjustCurvesChannel2Type=0
+AdjustCurvesChannel3Point0=0,0
+AdjustCurvesChannel3Point1=-1,-1
+AdjustCurvesChannel3Point10=-1,-1
+AdjustCurvesChannel3Point11=-1,-1
+AdjustCurvesChannel3Point12=-1,-1
+AdjustCurvesChannel3Point13=-1,-1
+AdjustCurvesChannel3Point14=-1,-1
+AdjustCurvesChannel3Point15=-1,-1
+AdjustCurvesChannel3Point16=65025,65025
+AdjustCurvesChannel3Point17=-1,-1
+AdjustCurvesChannel3Point2=-1,-1
+AdjustCurvesChannel3Point3=-1,-1
+AdjustCurvesChannel3Point4=-1,-1
+AdjustCurvesChannel3Point5=-1,-1
+AdjustCurvesChannel3Point6=-1,-1
+AdjustCurvesChannel3Point7=-1,-1
+AdjustCurvesChannel3Point8=-1,-1
+AdjustCurvesChannel3Point9=-1,-1
+AdjustCurvesChannel3Type=0
+AdjustCurvesChannel4Point0=0,0
+AdjustCurvesChannel4Point1=-1,-1
+AdjustCurvesChannel4Point10=-1,-1
+AdjustCurvesChannel4Point11=-1,-1
+AdjustCurvesChannel4Point12=-1,-1
+AdjustCurvesChannel4Point13=-1,-1
+AdjustCurvesChannel4Point14=-1,-1
+AdjustCurvesChannel4Point15=-1,-1
+AdjustCurvesChannel4Point16=65025,65025
+AdjustCurvesChannel4Point17=-1,-1
+AdjustCurvesChannel4Point2=-1,-1
+AdjustCurvesChannel4Point3=-1,-1
+AdjustCurvesChannel4Point4=-1,-1
+AdjustCurvesChannel4Point5=-1,-1
+AdjustCurvesChannel4Point6=-1,-1
+AdjustCurvesChannel4Point7=-1,-1
+AdjustCurvesChannel4Point8=-1,-1
+AdjustCurvesChannel4Point9=-1,-1
+AdjustCurvesChannel4Type=0
+Histogram Channel=1
+Histogram Scale=0
+
+[autocorrection Tool]
+Auto Correction Filter=1
+Histogram Channel=0
+Histogram Scale=1
+
+[channelmixer Tool]
+BlackBlueGain=0
+BlackGreenGain=0
+BlackRedGain=1
+BlueBlueGain=1
+BlueGreenGain=0
+BlueRedGain=0
+GreenBlueGain=0
+GreenGreenGain=1
+GreenRedGain=0
+Histogram Channel=2
+Histogram Scale=1
+Monochrome=false
+PreserveLuminosity=true
+RedBlueGain=0
+RedGreenGain=0
+RedRedGain=1
+
+[colorbalance Tool]
+BlueAdjustment=1
+GreenAdjustment=1
+Histogram Channel=5
+Histogram Scale=0
+RedAdjustment=0.98
+
+[convertbw Tool]
+BW Film=7
+BW Filter=0
+BW Tone=25
+BWSepiaCurveChannel0Point0=0,0
+BWSepiaCurveChannel0Point1=-1,-1
+BWSepiaCurveChannel0Point10=-1,-1
+BWSepiaCurveChannel0Point11=-1,-1
+BWSepiaCurveChannel0Point12=-1,-1
+BWSepiaCurveChannel0Point13=-1,-1
+BWSepiaCurveChannel0Point14=-1,-1
+BWSepiaCurveChannel0Point15=-1,-1
+BWSepiaCurveChannel0Point16=65025,65025
+BWSepiaCurveChannel0Point17=-1,-1
+BWSepiaCurveChannel0Point2=-1,-1
+BWSepiaCurveChannel0Point3=-1,-1
+BWSepiaCurveChannel0Point4=-1,-1
+BWSepiaCurveChannel0Point5=-1,-1
+BWSepiaCurveChannel0Point6=-1,-1
+BWSepiaCurveChannel0Point7=-1,-1
+BWSepiaCurveChannel0Point8=-1,-1
+BWSepiaCurveChannel0Point9=-1,-1
+BWSepiaCurveChannel0Type=0
+BWSepiaCurveChannel1Point0=0,0
+BWSepiaCurveChannel1Point1=-1,-1
+BWSepiaCurveChannel1Point10=-1,-1
+BWSepiaCurveChannel1Point11=-1,-1
+BWSepiaCurveChannel1Point12=-1,-1
+BWSepiaCurveChannel1Point13=-1,-1
+BWSepiaCurveChannel1Point14=-1,-1
+BWSepiaCurveChannel1Point15=-1,-1
+BWSepiaCurveChannel1Point16=65025,65025
+BWSepiaCurveChannel1Point17=-1,-1
+BWSepiaCurveChannel1Point2=-1,-1
+BWSepiaCurveChannel1Point3=-1,-1
+BWSepiaCurveChannel1Point4=-1,-1
+BWSepiaCurveChannel1Point5=-1,-1
+BWSepiaCurveChannel1Point6=-1,-1
+BWSepiaCurveChannel1Point7=-1,-1
+BWSepiaCurveChannel1Point8=-1,-1
+BWSepiaCurveChannel1Point9=-1,-1
+BWSepiaCurveChannel1Type=0
+BWSepiaCurveChannel2Point0=0,0
+BWSepiaCurveChannel2Point1=-1,-1
+BWSepiaCurveChannel2Point10=-1,-1
+BWSepiaCurveChannel2Point11=-1,-1
+BWSepiaCurveChannel2Point12=-1,-1
+BWSepiaCurveChannel2Point13=-1,-1
+BWSepiaCurveChannel2Point14=-1,-1
+BWSepiaCurveChannel2Point15=-1,-1
+BWSepiaCurveChannel2Point16=65025,65025
+BWSepiaCurveChannel2Point17=-1,-1
+BWSepiaCurveChannel2Point2=-1,-1
+BWSepiaCurveChannel2Point3=-1,-1
+BWSepiaCurveChannel2Point4=-1,-1
+BWSepiaCurveChannel2Point5=-1,-1
+BWSepiaCurveChannel2Point6=-1,-1
+BWSepiaCurveChannel2Point7=-1,-1
+BWSepiaCurveChannel2Point8=-1,-1
+BWSepiaCurveChannel2Point9=-1,-1
+BWSepiaCurveChannel2Type=0
+BWSepiaCurveChannel3Point0=0,0
+BWSepiaCurveChannel3Point1=-1,-1
+BWSepiaCurveChannel3Point10=-1,-1
+BWSepiaCurveChannel3Point11=-1,-1
+BWSepiaCurveChannel3Point12=-1,-1
+BWSepiaCurveChannel3Point13=-1,-1
+BWSepiaCurveChannel3Point14=-1,-1
+BWSepiaCurveChannel3Point15=-1,-1
+BWSepiaCurveChannel3Point16=65025,65025
+BWSepiaCurveChannel3Point17=-1,-1
+BWSepiaCurveChannel3Point2=-1,-1
+BWSepiaCurveChannel3Point3=-1,-1
+BWSepiaCurveChannel3Point4=-1,-1
+BWSepiaCurveChannel3Point5=-1,-1
+BWSepiaCurveChannel3Point6=-1,-1
+BWSepiaCurveChannel3Point7=-1,-1
+BWSepiaCurveChannel3Point8=-1,-1
+BWSepiaCurveChannel3Point9=-1,-1
+BWSepiaCurveChannel3Type=0
+BWSepiaCurveChannel4Point0=0,0
+BWSepiaCurveChannel4Point1=-1,-1
+BWSepiaCurveChannel4Point10=-1,-1
+BWSepiaCurveChannel4Point11=-1,-1
+BWSepiaCurveChannel4Point12=-1,-1
+BWSepiaCurveChannel4Point13=-1,-1
+BWSepiaCurveChannel4Point14=-1,-1
+BWSepiaCurveChannel4Point15=-1,-1
+BWSepiaCurveChannel4Point16=65025,65025
+BWSepiaCurveChannel4Point17=-1,-1
+BWSepiaCurveChannel4Point2=-1,-1
+BWSepiaCurveChannel4Point3=-1,-1
+BWSepiaCurveChannel4Point4=-1,-1
+BWSepiaCurveChannel4Point5=-1,-1
+BWSepiaCurveChannel4Point6=-1,-1
+BWSepiaCurveChannel4Point7=-1,-1
+BWSepiaCurveChannel4Point8=-1,-1
+BWSepiaCurveChannel4Point9=-1,-1
+BWSepiaCurveChannel4Type=0
+ContrastValueAdjustment=1.28
+Film Expanded=false
+Histogram Channel=5
+Histogram Scale=1
+Lens Filters Expanded=false
+Luminosity Expanded=true
+StrengthAdjustment=1
+Tone Expanded=false
+
+[hsladjust Tool]
+Histogram Channel=0
+Histogram Scale=1
+HueAdjustment=-106
+LighnessAdjustment=0
+SaturationAdjustment=-1.96
+VibranceAdjustment=0
+
+[mainwindow_mapwidgetview]
+Sort Order=0
+
+[mainwindow_mapwidgetview][Central Map Widget]
+Backend=marble
+Center=geo:52,6
+GoogleMaps Map Type=ROADMAP
+GoogleMaps Show Map Type Control=true
+GoogleMaps Show Navigation Control=true
+GoogleMaps Show Scale Control=true
+Marble Map Theme=atlas
+Marble Projection=spherical
+Marble Show Compass=false
+Marble Show Navigation=false
+Marble Show Overview Map=false
+Marble Show Scale Bar=false
+Marker Grouping Radius=1
+Mouse Mode=0
+Preview Grouped Items=true
+Preview Single Items=true
+Show Thumbnails=true
+Show numbers on items=true
+Thumbnail Grouping Radius=30
+Thumbnail Size=60
+Zoom=marble:900
+
+[mainwindow_tableview]
+Grouping mode=2
+
+[mainwindow_tableview][Current Profile]
+Column Count=5
+Header State=\x00\x00\x00\xff\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03k\x00\x00\x00\x05\x01\x01\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00d\xff\xff\xff\xff\x00\x00\x00\x81\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00d\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x01S\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00d\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00d\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\xec\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x03\xe8\x00\x00\x00\x00d
+Profile Name=
+
+[mainwindow_tableview][Current Profile][Column 0]
+Column Id=thumbnail
+NSettings=0
+
+[mainwindow_tableview][Current Profile][Column 1]
+Column Id=filename
+NSettings=0
+
+[mainwindow_tableview][Current Profile][Column 2]
+Column Id=digikam-rating
+NSettings=0
+
+[mainwindow_tableview][Current Profile][Column 3]
+Column Id=itemcreationdatetime
+NSettings=0
+
+[mainwindow_tableview][Current Profile][Column 4]
+Column Id=digikam-title
+NSettings=0
+
+[noisereduction Tool]
+AutoNRAdjustment=false
+SoftCbAdjustment=0.6
+SoftCrAdjustment=0.6
+SoftLumAdjustment=0.6
+ThrCbAdjustment=2.4
+ThrCrAdjustment=1.8
+ThrLumAdjustment=2.4

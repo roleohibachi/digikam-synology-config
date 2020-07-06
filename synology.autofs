@@ -1,0 +1,2 @@
+/mnt/synology  /etc/auto.misc  --ghost --timeout=10
+

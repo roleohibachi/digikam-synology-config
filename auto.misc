@@ -1,0 +1,7 @@
+#
+# This is an automounter map and it has the following format
+# key [ -mount-options-separated-by-comma ] location
+# Details may be found in the autofs(5) manpage
+
+photo -fstype=nfs,rw,hard,nointr,bg,nodevs,rsize=8192,wsize=8192 synology.hab:/volume1/photo
+

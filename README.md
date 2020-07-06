@@ -30,7 +30,8 @@ At this point, both pieces of software should be able to "see" the photos.
 
 ### Digikam settings
 
-These are available as a digikamrc file in this repo. You do not have to set them manually.
+These are available as a digikamrc file in this repo. You do not have to set them via the GUI. However, don't just blow away your digikamrc and replace it with mine; other stuff will break, such as database and file paths. It's a sensibly structured file, modelled after the GUI, and this GUI guide should help you determine which sections you want to copy over.
+
 - Settings -> Configure Digikam -> Metadata 
  - enable all "Write this information to the metadata" settings
  - Settings -> Configure Digikam -> Metadata -> enable all "reading and wrirting metadata" settings EXCEPT for "lazy synchronization"
